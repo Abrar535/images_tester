@@ -1,0 +1,2029 @@
+{
+  "timestamp": "2025-12-18T13:29:44.907Z",
+  "targetUrl": "http://localhost:3002/",
+  "imageDomain": "image.dngroup.com",
+  "fetchCount": 3,
+  "summary": {
+    "totalImages": 75,
+    "successfulMeasurements": 75,
+    "failedMeasurements": 0,
+    "averageLatency": 238.29,
+    "minLatency": 208.99,
+    "maxLatency": 561.12,
+    "medianLatency": 229.7,
+    "averageSize": 17.07,
+    "totalSize": 1280.31,
+    "latencyDistribution": {
+      "under100ms": 0,
+      "100-200ms": 0,
+      "200-500ms": 74,
+      "over500ms": 1
+    },
+    "fastest5": [
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/c2cf3e7409c40c71dc75c1eae482f060?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+        "avgLatency": 208.99,
+        "sizeKB": 6.28
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/1617a234f908638137c8faf27e140820?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+        "avgLatency": 209.91,
+        "sizeKB": 5.1
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/8e795e80f54d50a075fe6751ad92e56b?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+        "avgLatency": 212.52,
+        "sizeKB": 9.92
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/702dda0e9f65e4b25f6754db95d25bc4?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+        "avgLatency": 212.52,
+        "sizeKB": 10.29
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/e33e51c5407286f2a7b13cb7d934fe45?crop=1200%2C675%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+        "avgLatency": 212.75,
+        "sizeKB": 10.17
+      }
+    ],
+    "slowest5": [
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/07d6154be754b1d7024666ee99753570?crop=952%2C704%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+        "avgLatency": 561.12,
+        "sizeKB": 48.55
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/04642ed458ad2ae9b89713948daf3ec8?crop=1600%2C900%2Cx0%2Cy152%2Csafe&width=450&format=auto&quality=80",
+        "avgLatency": 307.97,
+        "sizeKB": 19.99
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/5969cd0bbf070426595bc31525fee407?crop=2400%2C1350%2Cx0%2Cy125%2Csafe&width=650&format=auto&quality=80",
+        "avgLatency": 294.79,
+        "sizeKB": 39.01
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/be5ec46265da09e66e8364791f9381a5?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+        "avgLatency": 291.28,
+        "sizeKB": 36.65
+      },
+      {
+        "url": "https://image.dngroup.com/global/nhst/binary/cdabebbe809a063db27cd2586e2ef3fb?crop=1024%2C576%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+        "avgLatency": 289.58,
+        "sizeKB": 35.59
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/07d6154be754b1d7024666ee99753570?crop=952%2C704%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        1172.63,
+        258.96,
+        251.76
+      ],
+      "avgLatency": 561.12,
+      "minLatency": 251.76,
+      "maxLatency": 1172.63,
+      "sizeKB": 48.55,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "638",
+      "ages": [
+        "638",
+        "639",
+        "639"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/dcdddcc68e58adcefc8461445c7ca6bc?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        213.06,
+        216.8,
+        212.79
+      ],
+      "avgLatency": 214.22,
+      "minLatency": 212.79,
+      "maxLatency": 216.8,
+      "sizeKB": 10.51,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "11603",
+      "ages": [
+        "11603",
+        "11603",
+        "11603"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/d9af3b79624fddee37489245ff8bc5f1?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        214.32,
+        215.13,
+        215.27
+      ],
+      "avgLatency": 214.91,
+      "minLatency": 214.32,
+      "maxLatency": 215.27,
+      "sizeKB": 11.74,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "24509",
+      "ages": [
+        "24509",
+        "24509",
+        "24509"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/bdf1090bc7d645d8e276214abbe80990?crop=1600%2C899%2Cx0%2Cy67%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        220.09,
+        221.87,
+        216.58
+      ],
+      "avgLatency": 219.51,
+      "minLatency": 216.58,
+      "maxLatency": 221.87,
+      "sizeKB": 9.78,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "21746",
+      "ages": [
+        "21746",
+        "21746",
+        "21746"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/8e795e80f54d50a075fe6751ad92e56b?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        212.93,
+        213.43,
+        211.21
+      ],
+      "avgLatency": 212.52,
+      "minLatency": 211.21,
+      "maxLatency": 213.43,
+      "sizeKB": 9.92,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "72060",
+      "ages": [
+        "72060",
+        "72060",
+        "72060"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/7c2abc5f2d92995f635064e6d142045c?crop=1600%2C899%2Cx0%2Cy90%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        215.95,
+        215.44,
+        213.86
+      ],
+      "avgLatency": 215.08,
+      "minLatency": 213.86,
+      "maxLatency": 215.95,
+      "sizeKB": 11.34,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "83230",
+      "ages": [
+        "83230",
+        "83230",
+        "83230"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/39307de1d5fcf675cb813e440d28eb02?crop=1600%2C899%2Cx0%2Cy84%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        221.11,
+        222.75,
+        220.21
+      ],
+      "avgLatency": 221.36,
+      "minLatency": 220.21,
+      "maxLatency": 222.75,
+      "sizeKB": 17.26,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "88813",
+      "ages": [
+        "88813",
+        "88813",
+        "88813"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/457c406775c29a5a4aac89a1c03dadcc?crop=800%2C449%2Cx0%2Cy34%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        216.26,
+        215.76,
+        215.44
+      ],
+      "avgLatency": 215.82,
+      "minLatency": 215.44,
+      "maxLatency": 216.26,
+      "sizeKB": 12.96,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "97092",
+      "ages": [
+        "97092",
+        "97092",
+        "97092"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/5977d64ac3d26bcbd382cc214443c66b?crop=1350%2C1350%2Cx0%2Cy48%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        242.01,
+        242.08,
+        240.21
+      ],
+      "avgLatency": 241.43,
+      "minLatency": 240.21,
+      "maxLatency": 242.08,
+      "sizeKB": 39.05,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "190582",
+      "ages": [
+        "190582",
+        "190583",
+        "190583"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/21787d6f39b2d992f774ab2083f66f5f?crop=1511%2C1007%2Cx45%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        213.73,
+        215.15,
+        213.5
+      ],
+      "avgLatency": 214.13,
+      "minLatency": 213.5,
+      "maxLatency": 215.15,
+      "sizeKB": 10.05,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "272140",
+      "ages": [
+        "272140",
+        "272141",
+        "272141"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/3bd94ec40985f62f3686e13c0e93294a?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        215.93,
+        214.75,
+        215.26
+      ],
+      "avgLatency": 215.31,
+      "minLatency": 214.75,
+      "maxLatency": 215.93,
+      "sizeKB": 11.59,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "101263",
+      "ages": [
+        "101263",
+        "101263",
+        "101263"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/86f2c106f06d03badfa919750cd0678e?crop=1086%2C610%2Cx0%2Cy239%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        213.98,
+        211,
+        214.27
+      ],
+      "avgLatency": 213.08,
+      "minLatency": 211,
+      "maxLatency": 214.27,
+      "sizeKB": 8.03,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "99213",
+      "ages": [
+        "99213",
+        "99213",
+        "99213"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/6965b24055cfc72052a7b36cd49efc3d?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        214.46,
+        213.77,
+        216.44
+      ],
+      "avgLatency": 214.89,
+      "minLatency": 213.77,
+      "maxLatency": 216.44,
+      "sizeKB": 11.1,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "172834",
+      "ages": [
+        "172834",
+        "172834",
+        "172834"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/0dacbf8fdd6994ae4cec4dc474e96a1e?crop=1600%2C899%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        234.2,
+        232.53,
+        233.66
+      ],
+      "avgLatency": 233.46,
+      "minLatency": 232.53,
+      "maxLatency": 234.2,
+      "sizeKB": 30.95,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "183858",
+      "ages": [
+        "183858",
+        "183858",
+        "183858"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/6ee501761feffe7a7905b803ccd88584?crop=1600%2C899%2Cx0%2Cy83%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        229.56,
+        227.9,
+        226.64
+      ],
+      "avgLatency": 228.03,
+      "minLatency": 226.64,
+      "maxLatency": 229.56,
+      "sizeKB": 23.92,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "186121",
+      "ages": [
+        "186121",
+        "186122",
+        "186122"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/5e2bc06f2822e461234f6c75c153317c?crop=1600%2C900%2Cx0%2Cy43%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        214.34,
+        213.17,
+        212.98
+      ],
+      "avgLatency": 213.5,
+      "minLatency": 212.98,
+      "maxLatency": 214.34,
+      "sizeKB": 11.16,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "25366",
+      "ages": [
+        "25366",
+        "25367",
+        "25367"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/180e1d3a714121398a13a07a18ca5872?crop=1406%2C791%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        223.75,
+        213.89,
+        216.14
+      ],
+      "avgLatency": 217.93,
+      "minLatency": 213.89,
+      "maxLatency": 223.75,
+      "sizeKB": 11.54,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285276",
+      "ages": [
+        "285276",
+        "285276",
+        "285277"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/3f5da523bbea1ec97157b1c226388773?crop=1360%2C765%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        215.65,
+        214.99,
+        215.11
+      ],
+      "avgLatency": 215.25,
+      "minLatency": 214.99,
+      "maxLatency": 215.65,
+      "sizeKB": 10.63,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "55680",
+      "ages": [
+        "55680",
+        "55680",
+        "55680"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/838b7bac51b297f5d970da76e75e6833?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        213.51,
+        213.41,
+        211.97
+      ],
+      "avgLatency": 212.96,
+      "minLatency": 211.97,
+      "maxLatency": 213.51,
+      "sizeKB": 10.43,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285278",
+      "ages": [
+        "285278",
+        "285278",
+        "285278"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/947e79836a9cae2ae155809d2046282f?crop=1401%2C1001%2Cx99%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        241.09,
+        226.08,
+        225.42
+      ],
+      "avgLatency": 230.86,
+      "minLatency": 225.42,
+      "maxLatency": 241.09,
+      "sizeKB": 22.36,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "192471",
+      "ages": [
+        "192471",
+        "192471",
+        "192471"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/bc25d6a622fc95ffbccd039993017503?crop=1600%2C900%2Cx0%2Cy31%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        221.09,
+        221.22,
+        219.97
+      ],
+      "avgLatency": 220.76,
+      "minLatency": 219.97,
+      "maxLatency": 221.22,
+      "sizeKB": 18.34,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "263165",
+      "ages": [
+        "263165",
+        "263166",
+        "263166"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/eba609a9773d863825860d1278469e3a?crop=1201%2C676%2Cx0%2Cy25%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        219.32,
+        218.31,
+        217.3
+      ],
+      "avgLatency": 218.31,
+      "minLatency": 217.3,
+      "maxLatency": 219.32,
+      "sizeKB": 13.84,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "22790",
+      "ages": [
+        "22790",
+        "22791",
+        "22791"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/a42bf3772a6a7f9fef5644ad006bee9e?crop=1460%2C821%2Cx46%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        215.68,
+        214.11,
+        214.35
+      ],
+      "avgLatency": 214.71,
+      "minLatency": 214.11,
+      "maxLatency": 215.68,
+      "sizeKB": 10.5,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "271696",
+      "ages": [
+        "271696",
+        "271697",
+        "271697"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1198932c54c25b7dedd13e092f925234?crop=1280%2C720%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        217.33,
+        218.1,
+        217.64
+      ],
+      "avgLatency": 217.69,
+      "minLatency": 217.33,
+      "maxLatency": 218.1,
+      "sizeKB": 15.04,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285283",
+      "ages": [
+        "285283",
+        "285284",
+        "285284"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/92455d109dd61bd1d70e60dc2f4d47c0?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        223.06,
+        214.71,
+        212.46
+      ],
+      "avgLatency": 216.74,
+      "minLatency": 212.46,
+      "maxLatency": 223.06,
+      "sizeKB": 9.34,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "504",
+      "ages": [
+        "504",
+        "504",
+        "504"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/c2cf3e7409c40c71dc75c1eae482f060?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        210.36,
+        208.31,
+        208.31
+      ],
+      "avgLatency": 208.99,
+      "minLatency": 208.31,
+      "maxLatency": 210.36,
+      "sizeKB": 6.28,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "22794",
+      "ages": [
+        "22794",
+        "22794",
+        "22794"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1617a234f908638137c8faf27e140820?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        208.9,
+        209.46,
+        211.38
+      ],
+      "avgLatency": 209.91,
+      "minLatency": 208.9,
+      "maxLatency": 211.38,
+      "sizeKB": 5.1,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "284629",
+      "ages": [
+        "284629",
+        "284629",
+        "284629"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/3ac0af8b1d69b6a6e59156119a2dcaeb?crop=2307%2C1298%2Cx1%2Cy101%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        215.36,
+        216.07,
+        213.71
+      ],
+      "avgLatency": 215.05,
+      "minLatency": 213.71,
+      "maxLatency": 216.07,
+      "sizeKB": 11.55,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "27627",
+      "ages": [
+        "27627",
+        "27628",
+        "27628"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1bf6c3483c695d97cf3c9ba73fef4b5e?crop=1600%2C900%2Cx0%2Cy27%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        215.19,
+        215.76,
+        218.04
+      ],
+      "avgLatency": 216.33,
+      "minLatency": 215.19,
+      "maxLatency": 218.04,
+      "sizeKB": 12.89,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "260853",
+      "ages": [
+        "260853",
+        "260854",
+        "260854"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2c0f909b7310e34ad2ec1c0580d5758b?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        215.89,
+        215.41,
+        217.1
+      ],
+      "avgLatency": 216.13,
+      "minLatency": 215.41,
+      "maxLatency": 217.1,
+      "sizeKB": 12.4,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285288",
+      "ages": [
+        "285288",
+        "285288",
+        "285288"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/fc0fee23fc52647bc705e3c6cfd8cd81?crop=800%2C450%2Cx0%2Cy71%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        230.44,
+        214.74,
+        215
+      ],
+      "avgLatency": 220.06,
+      "minLatency": 214.74,
+      "maxLatency": 230.44,
+      "sizeKB": 12.16,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285830",
+      "ages": [
+        "285830",
+        "285830",
+        "285830"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/aebb8ea3e657f59ec329b12946cd30af?crop=1600%2C1066%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        236.57,
+        230.51,
+        229.82
+      ],
+      "avgLatency": 232.3,
+      "minLatency": 229.82,
+      "maxLatency": 236.57,
+      "sizeKB": 26.37,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285831",
+      "ages": [
+        "285831",
+        "285831",
+        "285831"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/25848357a35a47e96211dae56ce77173?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        219.67,
+        218.49,
+        219.02
+      ],
+      "avgLatency": 219.06,
+      "minLatency": 218.49,
+      "maxLatency": 219.67,
+      "sizeKB": 15.37,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "20456",
+      "ages": [
+        "20456",
+        "20456",
+        "20456"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/e2637c0f7cb4ec29b788cd213eccba84?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        216.63,
+        215.06,
+        214.5
+      ],
+      "avgLatency": 215.4,
+      "minLatency": 214.5,
+      "maxLatency": 216.63,
+      "sizeKB": 9.44,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "284636",
+      "ages": [
+        "284636",
+        "284636",
+        "284637"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/702dda0e9f65e4b25f6754db95d25bc4?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        212.25,
+        212.99,
+        212.32
+      ],
+      "avgLatency": 212.52,
+      "minLatency": 212.25,
+      "maxLatency": 212.99,
+      "sizeKB": 10.29,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "275165",
+      "ages": [
+        "275165",
+        "275165",
+        "275165"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/9c6a746097f81ae4a67b276f49cf2ba5?crop=1600%2C900%2Cx0%2Cy39%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        219.76,
+        215.79,
+        214.14
+      ],
+      "avgLatency": 216.56,
+      "minLatency": 214.14,
+      "maxLatency": 219.76,
+      "sizeKB": 11.17,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282662",
+      "ages": [
+        "282662",
+        "282662",
+        "282662"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/4bbac651088e6ebf5526426791094e28?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        215.08,
+        261.67,
+        213
+      ],
+      "avgLatency": 229.92,
+      "minLatency": 213,
+      "maxLatency": 261.67,
+      "sizeKB": 10.62,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285835",
+      "ages": [
+        "285835",
+        "285836",
+        "285836"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/b029550a090f00e6b0f937c81825ebed?crop=2240%2C1260%2Cx80%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        214.39,
+        215.3,
+        214.53
+      ],
+      "avgLatency": 214.74,
+      "minLatency": 214.39,
+      "maxLatency": 215.3,
+      "sizeKB": 11.76,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "20449",
+      "ages": [
+        "20449",
+        "20450",
+        "20450"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/e33e51c5407286f2a7b13cb7d934fe45?crop=1200%2C675%2Cx0%2Cy0%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        212.5,
+        213.21,
+        212.54
+      ],
+      "avgLatency": 212.75,
+      "minLatency": 212.5,
+      "maxLatency": 213.21,
+      "sizeKB": 10.17,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203352",
+      "ages": [
+        "203352",
+        "203353",
+        "203353"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/9a67452ba6f772432487d298ef2fedac?crop=1300%2C731%2Cx0%2Cy21%2Csafe&width=300&format=auto&quality=80",
+      "latencies": [
+        215.98,
+        215.06,
+        214.33
+      ],
+      "avgLatency": 215.12,
+      "minLatency": 214.33,
+      "maxLatency": 215.98,
+      "sizeKB": 11.07,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203353",
+      "ages": [
+        "203353",
+        "203353",
+        "203353"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2ce24b8b5908755ca41ee5ac132b6a7d?crop=1600%2C900%2Cx0%2Cy31%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        232.45,
+        235.01,
+        230.99
+      ],
+      "avgLatency": 232.82,
+      "minLatency": 230.99,
+      "maxLatency": 235.01,
+      "sizeKB": 28.45,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "194947",
+      "ages": [
+        "194947",
+        "194947",
+        "194947"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/0aec000de7b09186fcc55001749229fa?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        214.65,
+        213.51,
+        213.54
+      ],
+      "avgLatency": 213.9,
+      "minLatency": 213.51,
+      "maxLatency": 214.65,
+      "sizeKB": 11.12,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "193215",
+      "ages": [
+        "193215",
+        "193215",
+        "193215"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/04642ed458ad2ae9b89713948daf3ec8?crop=1600%2C900%2Cx0%2Cy152%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        223.99,
+        223.94,
+        475.97
+      ],
+      "avgLatency": 307.97,
+      "minLatency": 223.94,
+      "maxLatency": 475.97,
+      "sizeKB": 19.99,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "281985",
+      "ages": [
+        "281985",
+        "281986",
+        "281986"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/5969cd0bbf070426595bc31525fee407?crop=2400%2C1350%2Cx0%2Cy125%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        294.58,
+        295.61,
+        294.18
+      ],
+      "avgLatency": 294.79,
+      "minLatency": 294.18,
+      "maxLatency": 295.61,
+      "sizeKB": 39.01,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203361",
+      "ages": [
+        "203361",
+        "203361",
+        "203361"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1202f28e3ecc8030b3879f26fd7fd32d?crop=1600%2C900%2Cx0%2Cy33%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        263.23,
+        266.61,
+        263.43
+      ],
+      "avgLatency": 264.42,
+      "minLatency": 263.23,
+      "maxLatency": 266.61,
+      "sizeKB": 25.17,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "280726",
+      "ages": [
+        "280726",
+        "280726",
+        "280726"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/be5ec46265da09e66e8364791f9381a5?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        294.35,
+        291.51,
+        287.98
+      ],
+      "avgLatency": 291.28,
+      "minLatency": 287.98,
+      "maxLatency": 294.35,
+      "sizeKB": 36.65,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285881",
+      "ages": [
+        "285881",
+        "285882",
+        "285882"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2254ce709b40a2983ecb680ecc62ee19?crop=1421%2C888%2Cx0%2Cy28%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        255.4,
+        258.67,
+        256.36
+      ],
+      "avgLatency": 256.81,
+      "minLatency": 255.4,
+      "maxLatency": 258.67,
+      "sizeKB": 21.99,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282266",
+      "ages": [
+        "282266",
+        "282267",
+        "282267"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/cbd4d3a0131e06c50cb5a411d5f96211?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        276.5,
+        273.76,
+        276.16
+      ],
+      "avgLatency": 275.47,
+      "minLatency": 273.76,
+      "maxLatency": 276.5,
+      "sizeKB": 29.03,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "20463",
+      "ages": [
+        "20463",
+        "20464",
+        "20464"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/94eac982eb5f6dac57b584dd0d72cd49?crop=1600%2C900%2Cx0%2Cy166%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        219.95,
+        224.27,
+        218.28
+      ],
+      "avgLatency": 220.83,
+      "minLatency": 218.28,
+      "maxLatency": 224.27,
+      "sizeKB": 7.77,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "284650",
+      "ages": [
+        "284650",
+        "284651",
+        "284651"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1097e2477cf1483047c9cee181dd4956?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        238.4,
+        234.89,
+        240.04
+      ],
+      "avgLatency": 237.78,
+      "minLatency": 234.89,
+      "maxLatency": 240.04,
+      "sizeKB": 14.13,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "501",
+      "ages": [
+        "501",
+        "501",
+        "501"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/c694353a788103c32baa31782a2f4eaf?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        251.35,
+        252.9,
+        249.57
+      ],
+      "avgLatency": 251.27,
+      "minLatency": 249.57,
+      "maxLatency": 252.9,
+      "sizeKB": 18.6,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "22819",
+      "ages": [
+        "22819",
+        "22819",
+        "22819"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/4c0c5b68997c780943af03e97b51fb43?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        239.35,
+        239.67,
+        236.95
+      ],
+      "avgLatency": 238.66,
+      "minLatency": 236.95,
+      "maxLatency": 239.67,
+      "sizeKB": 14.64,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285310",
+      "ages": [
+        "285310",
+        "285311",
+        "285311"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2c43ef282afa0a3ad1fe5a01dd1fc3a3?crop=1600%2C900%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        238.91,
+        237.43,
+        237.07
+      ],
+      "avgLatency": 237.8,
+      "minLatency": 237.07,
+      "maxLatency": 238.91,
+      "sizeKB": 13.21,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203369",
+      "ages": [
+        "203369",
+        "203370",
+        "203370"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/5458031657f68401b054087827366292?crop=2005%2C1128%2Cx0%2Cy52%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        224.58,
+        227.17,
+        224.84
+      ],
+      "avgLatency": 225.53,
+      "minLatency": 224.58,
+      "maxLatency": 227.17,
+      "sizeKB": 10.38,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "577",
+      "ages": [
+        "577",
+        "578",
+        "578"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/cdabebbe809a063db27cd2586e2ef3fb?crop=1024%2C576%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        288.34,
+        290.4,
+        289.99
+      ],
+      "avgLatency": 289.58,
+      "minLatency": 288.34,
+      "maxLatency": 290.4,
+      "sizeKB": 35.59,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285314",
+      "ages": [
+        "285314",
+        "285314",
+        "285314"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/7bfe727ae6bf1d33f6e2c5f8a3c82839?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        281.66,
+        281.75,
+        277.24
+      ],
+      "avgLatency": 280.22,
+      "minLatency": 277.24,
+      "maxLatency": 281.75,
+      "sizeKB": 32.34,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203391",
+      "ages": [
+        "203391",
+        "203391",
+        "203391"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/58c8d1ebb4f244d610f0e2f13285aa0d?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        231.24,
+        231.19,
+        233.91
+      ],
+      "avgLatency": 232.11,
+      "minLatency": 231.19,
+      "maxLatency": 233.91,
+      "sizeKB": 12.67,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203392",
+      "ages": [
+        "203392",
+        "203392",
+        "203392"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/0825a1b8c12999c6659b4b813e726a92?crop=1200%2C675%2Cx0%2Cy29%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        244.77,
+        248.57,
+        244.08
+      ],
+      "avgLatency": 245.81,
+      "minLatency": 244.08,
+      "maxLatency": 248.57,
+      "sizeKB": 18.04,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "194199",
+      "ages": [
+        "194199",
+        "194199",
+        "194199"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/cac025f16cbada61ca92f6539d53dff8?crop=2400%2C1350%2Cx0%2Cy71%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        257.21,
+        257.34,
+        255.62
+      ],
+      "avgLatency": 256.72,
+      "minLatency": 255.62,
+      "maxLatency": 257.34,
+      "sizeKB": 22.08,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "285860",
+      "ages": [
+        "285860",
+        "285861",
+        "285861"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/f518433629686e7cbedd0b5c2f09593c?crop=2400%2C1600%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        282.92,
+        284.56,
+        284.94
+      ],
+      "avgLatency": 284.14,
+      "minLatency": 282.92,
+      "maxLatency": 284.94,
+      "sizeKB": 33.93,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "197049",
+      "ages": [
+        "197049",
+        "197050",
+        "197050"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/7133f946e285f4cb30a74cc407cc697c?crop=2000%2C1125%2Cx0%2Cy33%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        233.45,
+        229.74,
+        227.77
+      ],
+      "avgLatency": 230.32,
+      "minLatency": 227.77,
+      "maxLatency": 233.45,
+      "sizeKB": 11.24,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "14384",
+      "ages": [
+        "14384",
+        "14385",
+        "14385"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/bfd12236eac3f4d366818cd71941d6a9?crop=2400%2C1350%2Cx0%2Cy33%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        253.04,
+        256.28,
+        256.85
+      ],
+      "avgLatency": 255.39,
+      "minLatency": 253.04,
+      "maxLatency": 256.85,
+      "sizeKB": 21.91,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "585",
+      "ages": [
+        "585",
+        "585",
+        "586"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/edeaac92c44173d0e047a6add21081df?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        231.1,
+        233.36,
+        233.16
+      ],
+      "avgLatency": 232.54,
+      "minLatency": 231.1,
+      "maxLatency": 233.36,
+      "sizeKB": 12.15,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "279581",
+      "ages": [
+        "279581",
+        "279581",
+        "279581"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2e6343d122dfaf1802324bcc32a053d6?crop=2400%2C1350%2Cx0%2Cy264%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        237.34,
+        240.46,
+        240.33
+      ],
+      "avgLatency": 239.38,
+      "minLatency": 237.34,
+      "maxLatency": 240.46,
+      "sizeKB": 15.15,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203384",
+      "ages": [
+        "203384",
+        "203384",
+        "203384"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/2981d846b118e369a88e4197d7bdc8db?crop=2048%2C1152%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        265.52,
+        265.88,
+        269.28
+      ],
+      "avgLatency": 266.89,
+      "minLatency": 265.52,
+      "maxLatency": 269.28,
+      "sizeKB": 27.19,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "183363",
+      "ages": [
+        "183363",
+        "183363",
+        "183363"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/31e49b3bae32f7538e74494c871d8ee0?crop=2400%2C1350%2Cx0%2Cy150%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        262.82,
+        265.43,
+        263.15
+      ],
+      "avgLatency": 263.8,
+      "minLatency": 262.82,
+      "maxLatency": 265.43,
+      "sizeKB": 25.35,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "14389",
+      "ages": [
+        "14389",
+        "14389",
+        "14389"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/1226d95a60fc681c2ced6763e76b0ea8?crop=2400%2C1350%2Cx0%2Cy89%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        230.95,
+        228.18,
+        229.96
+      ],
+      "avgLatency": 229.7,
+      "minLatency": 228.18,
+      "maxLatency": 230.95,
+      "sizeKB": 11.55,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282085",
+      "ages": [
+        "282085",
+        "282085",
+        "282085"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/db798f5875846436559b09a768105d3b?crop=2400%2C1599%2Cx0%2Cy0%2Csafe&width=650&format=auto&quality=80",
+      "latencies": [
+        287.58,
+        291.63,
+        288.19
+      ],
+      "avgLatency": 289.13,
+      "minLatency": 287.58,
+      "maxLatency": 291.63,
+      "sizeKB": 34.86,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "14392",
+      "ages": [
+        "14392",
+        "14392",
+        "14392"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/741154736654f4f2aaec9996b3313d87?crop=2048%2C1152%2Cx0%2Cy177%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        235.1,
+        233.58,
+        229.92
+      ],
+      "avgLatency": 232.87,
+      "minLatency": 229.92,
+      "maxLatency": 235.1,
+      "sizeKB": 12.76,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "277422",
+      "ages": [
+        "277422",
+        "277422",
+        "277423"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/8c24f7adc4d633495fae95c71214b98c?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        231.42,
+        231.02,
+        230.61
+      ],
+      "avgLatency": 231.02,
+      "minLatency": 230.61,
+      "maxLatency": 231.42,
+      "sizeKB": 11.59,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "203390",
+      "ages": [
+        "203390",
+        "203391",
+        "203391"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/06c89fbfc72dcb7aacf01148b7a31974?crop=2400%2C1350%2Cx0%2Cy138%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        230.88,
+        232.87,
+        231.69
+      ],
+      "avgLatency": 231.81,
+      "minLatency": 230.88,
+      "maxLatency": 232.87,
+      "sizeKB": 10.62,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282098",
+      "ages": [
+        "282098",
+        "282099",
+        "282099"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/0d931ea8c66a820c55cf923e736d5131?crop=2400%2C1350%2Cx0%2Cy92%2Csafe&width=350&format=auto&quality=80",
+      "latencies": [
+        230.76,
+        227.36,
+        231.75
+      ],
+      "avgLatency": 229.96,
+      "minLatency": 227.36,
+      "maxLatency": 231.75,
+      "sizeKB": 11.09,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "276373",
+      "ages": [
+        "276373",
+        "276373",
+        "276373"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/c215c81ecb713a5f8627e1168d8c8318?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        244.33,
+        244.35,
+        240.28
+      ],
+      "avgLatency": 242.99,
+      "minLatency": 240.28,
+      "maxLatency": 244.35,
+      "sizeKB": 17.05,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "194219",
+      "ages": [
+        "194219",
+        "194219",
+        "194219"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/ec46f575eade3c97634c872561ecea2a?crop=2400%2C1350%2Cx0%2Cy15%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        231.64,
+        233.88,
+        232.12
+      ],
+      "avgLatency": 232.55,
+      "minLatency": 231.64,
+      "maxLatency": 233.88,
+      "sizeKB": 12.89,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282129",
+      "ages": [
+        "282129",
+        "282129",
+        "282129"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://image.dngroup.com/global/nhst/binary/c2385a8a6b6e5c31375639a78c22a377?crop=2400%2C1350%2Cx0%2Cy0%2Csafe&width=450&format=auto&quality=80",
+      "latencies": [
+        257.13,
+        256.58,
+        256.69
+      ],
+      "avgLatency": 256.8,
+      "minLatency": 256.58,
+      "maxLatency": 257.13,
+      "sizeKB": 23.55,
+      "cacheStatus": "MISS, HIT",
+      "cacheStatuses": [
+        "MISS, HIT",
+        "MISS, HIT",
+        "MISS, HIT"
+      ],
+      "age": "282093",
+      "ages": [
+        "282093",
+        "282093",
+        "282093"
+      ],
+      "status": 200,
+      "error": null
+    }
+  ]
+}

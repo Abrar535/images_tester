@@ -7,11 +7,11 @@ import http from 'http';
 import fs from 'fs';
 import { performance } from 'perf_hooks';
 
-const TARGET_URL = 'https://stage.rechargenews.com/';
-const IMAGE_DOMAIN = 'image-stage.dngroup.com';
+const TARGET_URL = 'http://localhost:3002/';
+const IMAGE_DOMAIN = 'image.dngroup.com';
 const FETCH_COUNT = 3;
-const OUTPUT_JSON = '(2)fastly_image_performance_stage_recharge_frontpage(18th_dec).json';
-const OUTPUT_CSV = '(2)fastly_image_performance_stage_recharge_frontpage(18th_dec).csv';
+const OUTPUT_JSON = '(3)fastly_image_performance_prod_recharge_frontpage(18th_dec).json';
+const OUTPUT_CSV = '(3)fastly_image_performance_prod_recharge_frontpage(18th_dec).csv';
 
 // Fetch a single image and measure latency
 function fetchImage(url) {
