@@ -7,11 +7,11 @@ import http from 'http';
 import fs from 'fs';
 import { performance } from 'perf_hooks';
 
-const TARGET_URL = 'http://localhost:3002/';
+const TARGET_URL = 'https://www.rechargenews.com/';
 const IMAGE_DOMAIN = 'image.dngroup.com';
 const FETCH_COUNT = 3;
-const OUTPUT_JSON = '(3)fastly_image_performance_prod_recharge_frontpage(18th_dec).json';
-const OUTPUT_CSV = '(3)fastly_image_performance_prod_recharge_frontpage(18th_dec).csv';
+const OUTPUT_JSON = '(5)fastly_image_performance_prod_recharge_frontpage(19th_dec).json';
+const OUTPUT_CSV = '(5)fastly_image_performance_prod_recharge_frontpage(19th_dec).csv';
 
 // Fetch a single image and measure latency
 function fetchImage(url) {
@@ -19,7 +19,24 @@ function fetchImage(url) {
     const start = performance.now();
     const protocol = url.startsWith('https') ? https : http;
     
-    protocol.get(url, (res) => {
+    // Parse URL to extract hostname and path
+    const urlObj = new URL(url);
+    
+    const options = {
+      hostname: urlObj.hostname,
+      path: urlObj.pathname + urlObj.search,
+      method: 'GET',
+      headers: {
+        // Disable any intermediate caching (proxies, etc.)
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        // Simulate a real browser request
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8'
+      }
+    };
+    
+    protocol.get(options, (res) => {
       let size = 0;
       
       res.on('data', chunk => size += chunk.length);
