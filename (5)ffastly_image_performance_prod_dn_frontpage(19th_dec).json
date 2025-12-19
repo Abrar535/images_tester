@@ -1,0 +1,4967 @@
+{
+  "timestamp": "2025-12-19T12:44:01.168Z",
+  "targetUrl": "https://www.dn.no/",
+  "imageDomain": "media.dngroup.com",
+  "fetchCount": 3,
+  "summary": {
+    "totalImages": 188,
+    "successfulMeasurements": 188,
+    "failedMeasurements": 0,
+    "averageLatency": 30.86,
+    "minLatency": 5.58,
+    "maxLatency": 135.06,
+    "medianLatency": 11.76,
+    "averageSize": 16.56,
+    "totalSize": 3112.97,
+    "latencyDistribution": {
+      "under100ms": 187,
+      "100-200ms": 1,
+      "200-500ms": 0,
+      "over500ms": 0
+    },
+    "fastest5": [
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC85M2FhNTU3My01Mzg1LTRlZjYtYWQ4Zi1jYWRiYzEyZmVjMjAvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+        "avgLatency": 5.58,
+        "sizeKB": 2.14
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lNzZjMjM0Ni05OTllLTQzYWItODAyYS0wY2RjN2Y3NGEzMmUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+        "avgLatency": 5.69,
+        "sizeKB": 2.28
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mZDMxNGU5Ny01ZWE2LTQzY2EtYmM1My05YzlhMTgwODk3ODgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+        "avgLatency": 5.69,
+        "sizeKB": 1.61
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9hMGJmYTVjOC0wYmE3LTRlMGItODI0YS01M2VjZDA5OTJkOGUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+        "avgLatency": 5.82,
+        "sizeKB": 1.76
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mNzk0MWQ5OC1kNTcwLTRlYTgtYjdlZi1jM2ZlMGQ1ODVlZTIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+        "avgLatency": 5.89,
+        "sizeKB": 1.7
+      }
+    ],
+    "slowest5": [
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjVlYmU4ZTZlYzFjNWJjZDM1YzgwOTNiOTVkZmE1YmQxIiwiY3JvcCI6WzAsMCwxNjAyLDEwNjhdLCJyIjoxLjUsIm8iOiJkbiJ9",
+        "avgLatency": 135.06,
+        "sizeKB": 15.31
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImE4OWYyMGE1YTJlNTk3ZTgxZjZmZGI1ZGJmNGIyYmNlIiwiZnAiOlswLjUsMC41MDA0NjVdLCJyIjoxLjY2LCJvIjoiZG4ifQ",
+        "avgLatency": 96.96,
+        "sizeKB": 94.42
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjEzZDkxYTZkMWEyYTdiNmU1MWM3MWQ0MjQ2YzFhYjlmIiwiZnAiOlswLjIyNzUsMC4zNDU4MjldLCJyIjoxLjQxLCJvIjoiZG4ifQ",
+        "avgLatency": 93.38,
+        "sizeKB": 9.35
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6IjBjNWU5Nzc4NDIyZGEyZmQ0MjNmNDhjOWE2MmM1YTQ0IiwiY3JvcCI6Wzg3LDg0LDE2MjUsMTEzMl0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+        "avgLatency": 87.61,
+        "sizeKB": 22.34
+      },
+      {
+        "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjE0OTkxZDFkNDcyNDM3ODgxMzI3MzdhYTU5NjA2YTQ2IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+        "avgLatency": 84.09,
+        "sizeKB": 13.4
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjEzZDkxYTZkMWEyYTdiNmU1MWM3MWQ0MjQ2YzFhYjlmIiwiZnAiOlswLjIyNzUsMC4zNDU4MjldLCJyIjoxLjQxLCJvIjoiZG4ifQ",
+      "latencies": [
+        56.05,
+        7.14,
+        9.79
+      ],
+      "avgLatency": 24.33,
+      "minLatency": 7.14,
+      "maxLatency": 56.05,
+      "sizeKB": 5.72,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "2618",
+      "ages": [
+        "2618",
+        "2618",
+        "2618"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6ImFmMDM5NjBjOGZhNTEyYzVjM2E2NDlkM2IwOGI0NzYzIiwiY3JvcCI6WzAsMCwxMjkwLDg2MF0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        8.18,
+        9.45,
+        8.54
+      ],
+      "avgLatency": 8.72,
+      "minLatency": 8.18,
+      "maxLatency": 9.45,
+      "sizeKB": 27.4,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "4078",
+      "ages": [
+        "4078",
+        "4078",
+        "4079"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjkyYjkyNGUzMjU4NzcwNzE2ZmIzNmYyZTZhNTk2YjRkIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        9.41,
+        9.62,
+        9.03
+      ],
+      "avgLatency": 9.35,
+      "minLatency": 9.03,
+      "maxLatency": 9.62,
+      "sizeKB": 13.37,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "3943",
+      "ages": [
+        "3943",
+        "3943",
+        "3943"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImNhZDllZmFiOWVhMzVjYjA0OGU2YmQ1YzBiMDE1NTFmIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        9.62,
+        6.43,
+        7.96
+      ],
+      "avgLatency": 8,
+      "minLatency": 6.43,
+      "maxLatency": 9.62,
+      "sizeKB": 10.43,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "6362",
+      "ages": [
+        "6362",
+        "6362",
+        "6362"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjgyNWFlYjEzNzM2YTliNDZjYjUyMGFjZDRkNmZmNmNiIiwiZnAiOlswLjQ1ODEyNSwwLjE2NTg4Nl0sInIiOjEuMTQsIm8iOiJkbiJ9",
+      "latencies": [
+        13.13,
+        8.79,
+        8.45
+      ],
+      "avgLatency": 10.12,
+      "minLatency": 8.45,
+      "maxLatency": 13.13,
+      "sizeKB": 27.27,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "4050",
+      "ages": [
+        "4050",
+        "4051",
+        "4051"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjcyNjgyMTdiOTY2ZWYxNjBmMGMwNTNiNjZhNzI5ZjVkIiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        6.72,
+        8.01,
+        7.07
+      ],
+      "avgLatency": 7.27,
+      "minLatency": 6.72,
+      "maxLatency": 8.01,
+      "sizeKB": 9.48,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "12728",
+      "ages": [
+        "12728",
+        "12728",
+        "12729"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjdkYWU4YjdlODMzNjgwMzkyMGJjMWQyMmMxMWQzMGUyIiwiY3JvcCI6WzAsMCwxNTk4LDEwNjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        26.45,
+        12.75,
+        9.31
+      ],
+      "avgLatency": 16.17,
+      "minLatency": 9.31,
+      "maxLatency": 26.45,
+      "sizeKB": 39.66,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "13311",
+      "ages": [
+        "13311",
+        "13312",
+        "13312"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6ImI5MjBjOTI5Yjg3NTQxNGE0Yzc0ODViMWU1ZmEyNjAwIiwiY3JvcCI6WzI1NSwyMzQsOTkzLDc4MF0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        9.22,
+        11.87,
+        7.95
+      ],
+      "avgLatency": 9.68,
+      "minLatency": 7.95,
+      "maxLatency": 11.87,
+      "sizeKB": 31.13,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "12555",
+      "ages": [
+        "12555",
+        "12555",
+        "12555"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6Ijk4YTJhYjY3MjlmMmExNjgwMzc0OGY3MmQ3NjNkMzMxIiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        10.83,
+        33.28,
+        7.32
+      ],
+      "avgLatency": 17.14,
+      "minLatency": 7.32,
+      "maxLatency": 33.28,
+      "sizeKB": 13.14,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "10315",
+      "ages": [
+        "10315",
+        "10316",
+        "10316"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6Ijc2N2Q1OWI2N2I1YzgwMTg1N2YyOTJhMDQ5MGExNTgxIiwiY3JvcCI6WzM3NSwxMTYsOTQzLDY5MV0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        10.52,
+        6.04,
+        9.15
+      ],
+      "avgLatency": 8.57,
+      "minLatency": 6.04,
+      "maxLatency": 10.52,
+      "sizeKB": 19.77,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "16810",
+      "ages": [
+        "16810",
+        "16810",
+        "16810"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6IjBjNWU5Nzc4NDIyZGEyZmQ0MjNmNDhjOWE2MmM1YTQ0IiwiY3JvcCI6Wzg3LDg0LDE2MjUsMTEzMl0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        9.63,
+        8.56,
+        8.83
+      ],
+      "avgLatency": 9.01,
+      "minLatency": 8.56,
+      "maxLatency": 9.63,
+      "sizeKB": 12.63,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "12716",
+      "ages": [
+        "12716",
+        "12716",
+        "12717"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjlmMDMzMWU0YTVhMGI4Y2EwYTllZTBhZjQ4ZjgyYWIxIiwiY3JvcCI6WzY1NSw0ODEsODU3LDYyOV0sImZwIjpbMC41LDAuNV0sInIiOjEuMzMsIm8iOiJkbiJ9",
+      "latencies": [
+        11.71,
+        11.68,
+        11.07
+      ],
+      "avgLatency": 11.49,
+      "minLatency": 11.07,
+      "maxLatency": 11.71,
+      "sizeKB": 85.2,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "19457",
+      "ages": [
+        "19457",
+        "19457",
+        "19457"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjY5NzllNTVlODI0OTMwMzY2ZTA5ZjRkMjIwNWQyNzA4IiwiY3JvcCI6WzIwOCwzMTUsMTA4OCw3NTJdLCJmcCI6WzAuNSwwLjVdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        6.92,
+        7.96,
+        7.98
+      ],
+      "avgLatency": 7.62,
+      "minLatency": 6.92,
+      "maxLatency": 7.98,
+      "sizeKB": 9.42,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "83227",
+      "ages": [
+        "83227",
+        "83227",
+        "83228"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImQ3ODUzN2I3ZWFhNDRhY2MxOWFmMzgyNzRiYjcxM2VlIiwiZnAiOlswLjQ0Njg3NSwwLjMzMzY0Nl0sInIiOjEuMjIsIm8iOiJkbiJ9",
+      "latencies": [
+        11.92,
+        7.22,
+        7.93
+      ],
+      "avgLatency": 9.02,
+      "minLatency": 7.22,
+      "maxLatency": 11.92,
+      "sizeKB": 9.57,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "102028",
+      "ages": [
+        "102028",
+        "102029",
+        "102029"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImQ3NmUzZDYwODdkYWZjMWU3MWU4ZTBiOWRmMzZkZWNkIiwiY3JvcCI6WzE5OCwyNDQsMTM1MCw5MDZdLCJmcCI6WzAuNSwwLjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        8.54,
+        7.7,
+        11.79
+      ],
+      "avgLatency": 9.34,
+      "minLatency": 7.7,
+      "maxLatency": 11.79,
+      "sizeKB": 9.33,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "15790",
+      "ages": [
+        "15790",
+        "15790",
+        "15790"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjRhZGZiYmUyYzAzMGY2YmM4OWU0M2RkYWIxN2I1ODM0IiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        9.63,
+        11.8,
+        9.19
+      ],
+      "avgLatency": 10.21,
+      "minLatency": 9.19,
+      "maxLatency": 11.8,
+      "sizeKB": 47.89,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "34377",
+      "ages": [
+        "34377",
+        "34377",
+        "34377"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8yNmVkMjRmNS05ZTk5LTQzNTMtYjI3OS1lODE0MTljNDc3ODUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.8,
+        7.47,
+        5.7
+      ],
+      "avgLatency": 6.32,
+      "minLatency": 5.7,
+      "maxLatency": 7.47,
+      "sizeKB": 1.82,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "10900",
+      "ages": [
+        "10900",
+        "10900",
+        "10901"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8yNDczOTk2Mi04MThjLTQ5OWQtYmM3OS02OGNiNWJjMmVmNDMvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.05,
+        7.47,
+        18.65
+      ],
+      "avgLatency": 11.06,
+      "minLatency": 7.05,
+      "maxLatency": 18.65,
+      "sizeKB": 2.95,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "17039",
+      "ages": [
+        "17039",
+        "17039",
+        "17040"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9iMmY3ODliNC1jNjU4LTQ4NGQtYTY5Zi1hZjFkNTgzZDhhNWIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.74,
+        7.28,
+        6.89
+      ],
+      "avgLatency": 6.64,
+      "minLatency": 5.74,
+      "maxLatency": 7.28,
+      "sizeKB": 3.72,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "18649",
+      "ages": [
+        "18649",
+        "18649",
+        "18649"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mMmY5NzYxMi0yYmJmLTRkMmYtODJiMC1hYjE5MzVjMGEwNzgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.34,
+        8.33,
+        7.55
+      ],
+      "avgLatency": 7.74,
+      "minLatency": 7.34,
+      "maxLatency": 8.33,
+      "sizeKB": 3.12,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "7473",
+      "ages": [
+        "7473",
+        "7473",
+        "7473"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mNzk0MWQ5OC1kNTcwLTRlYTgtYjdlZi1jM2ZlMGQ1ODVlZTIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.83,
+        5.75,
+        6.08
+      ],
+      "avgLatency": 5.89,
+      "minLatency": 5.75,
+      "maxLatency": 6.08,
+      "sizeKB": 1.7,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "7473",
+      "ages": [
+        "7473",
+        "7473",
+        "7473"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC80MTYxYmFkNC02MWMzLTRkM2MtOTQ5MC0xMTNhOGI2NGI4NDIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.2,
+        8.9,
+        6.42
+      ],
+      "avgLatency": 6.84,
+      "minLatency": 5.2,
+      "maxLatency": 8.9,
+      "sizeKB": 2.41,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "14434",
+      "ages": [
+        "14434",
+        "14434",
+        "14434"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8wODVlYzZmNS1lM2YzLTQ5Y2MtOTdjMS0wZTkxN2I4YWI5ZjYvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.31,
+        7.81,
+        6.23
+      ],
+      "avgLatency": 7.12,
+      "minLatency": 6.23,
+      "maxLatency": 7.81,
+      "sizeKB": 3.11,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "103714",
+      "ages": [
+        "103714",
+        "103714",
+        "103715"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lNzZjMjM0Ni05OTllLTQzYWItODAyYS0wY2RjN2Y3NGEzMmUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.17,
+        5.47,
+        6.44
+      ],
+      "avgLatency": 5.69,
+      "minLatency": 5.17,
+      "maxLatency": 6.44,
+      "sizeKB": 2.28,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "83477",
+      "ages": [
+        "83477",
+        "83477",
+        "83477"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lMzgzM2VmZi1jYzMyLTQ1ODUtODM0Zi0xOTE1YWYwODUxNmQvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.15,
+        5.52,
+        6.99
+      ],
+      "avgLatency": 6.55,
+      "minLatency": 5.52,
+      "maxLatency": 7.15,
+      "sizeKB": 2,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "93065",
+      "ages": [
+        "93065",
+        "93065",
+        "93066"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC84ZWI0N2M4OC01MmQ5LTQwYWEtOGI5OS02ZWE0YWYyMmNmNWIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        11.33,
+        6.38,
+        26.33
+      ],
+      "avgLatency": 14.68,
+      "minLatency": 6.38,
+      "maxLatency": 26.33,
+      "sizeKB": 1.84,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "260856",
+      "ages": [
+        "260856",
+        "260856",
+        "260856"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC82NmM4Nzc5ZS0xZjZkLTRlOTMtYjUyMy00ZTk3NzE0MDViMDMvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        28.11,
+        7.36,
+        6.15
+      ],
+      "avgLatency": 13.87,
+      "minLatency": 6.15,
+      "maxLatency": 28.11,
+      "sizeKB": 2.28,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "162836",
+      "ages": [
+        "162836",
+        "162836",
+        "162836"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC84MGUwNTQ5Zi01Zjk2LTQxYTItOTZhZC03ZTkwNzI4N2M2ZjcvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.91,
+        7.32,
+        7.93
+      ],
+      "avgLatency": 7.72,
+      "minLatency": 7.32,
+      "maxLatency": 7.93,
+      "sizeKB": 3.78,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "162836",
+      "ages": [
+        "162836",
+        "162836",
+        "162837"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mN2VhNGViMy0yZGYxLTQ1ZTktOTkwYi05ZWE2MjY0MWVjM2YvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        14.26,
+        8.72,
+        5.54
+      ],
+      "avgLatency": 9.51,
+      "minLatency": 5.54,
+      "maxLatency": 14.26,
+      "sizeKB": 2.21,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "278794",
+      "ages": [
+        "278794",
+        "278794",
+        "278794"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC82ZDA2ZTNhMS02ODE5LTRmMWItODNmOC05YWM2YTc5YmU5ZjcvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        10.1,
+        9.21,
+        9.19
+      ],
+      "avgLatency": 9.5,
+      "minLatency": 9.19,
+      "maxLatency": 10.1,
+      "sizeKB": 3.66,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "347613",
+      "ages": [
+        "347613",
+        "347613",
+        "347613"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lMWUwYzZkZS04ZWZiLTRhOTctOGE5OC04MGQwNmFiMGIyOTgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        8.26,
+        5.25,
+        5.43
+      ],
+      "avgLatency": 6.31,
+      "minLatency": 5.25,
+      "maxLatency": 8.26,
+      "sizeKB": 1.18,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "344124",
+      "ages": [
+        "344124",
+        "344124",
+        "344124"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8zZDdmYTdkNS1lMzdmLTRmZGUtOWM5ZC03MTk2YjM4OWRjOTkvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        8.94,
+        7.26,
+        6.43
+      ],
+      "avgLatency": 7.54,
+      "minLatency": 6.43,
+      "maxLatency": 8.94,
+      "sizeKB": 2.19,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "589521",
+      "ages": [
+        "589521",
+        "589521",
+        "589521"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mZDMxNGU5Ny01ZWE2LTQzY2EtYmM1My05YzlhMTgwODk3ODgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.25,
+        6,
+        5.82
+      ],
+      "avgLatency": 5.69,
+      "minLatency": 5.25,
+      "maxLatency": 6,
+      "sizeKB": 1.61,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "90287",
+      "ages": [
+        "90287",
+        "90287",
+        "90287"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC85M2FhNTU3My01Mzg1LTRlZjYtYWQ4Zi1jYWRiYzEyZmVjMjAvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.64,
+        5.27,
+        5.82
+      ],
+      "avgLatency": 5.58,
+      "minLatency": 5.27,
+      "maxLatency": 5.82,
+      "sizeKB": 2.14,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "1155",
+      "ages": [
+        "1155",
+        "1155",
+        "1155"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8xNTI1MjUzZS02YzIyLTQ2NDctOGE0Zi1kNDlhM2I3NDJlN2QvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        7.47,
+        7.63,
+        11.54
+      ],
+      "avgLatency": 8.88,
+      "minLatency": 7.47,
+      "maxLatency": 11.54,
+      "sizeKB": 2.47,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "199",
+      "ages": [
+        "199",
+        "199",
+        "199"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9hMGJmYTVjOC0wYmE3LTRlMGItODI0YS01M2VjZDA5OTJkOGUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        6.32,
+        4.86,
+        6.29
+      ],
+      "avgLatency": 5.82,
+      "minLatency": 4.86,
+      "maxLatency": 6.32,
+      "sizeKB": 1.76,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "598134",
+      "ages": [
+        "598134",
+        "598134",
+        "598134"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9kNzg0Y2JlNC02ODNiLTRkMWQtYjZmOC1lODg2ZjBmMmQwOWQvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        8.89,
+        5.09,
+        5.93
+      ],
+      "avgLatency": 6.64,
+      "minLatency": 5.09,
+      "maxLatency": 8.89,
+      "sizeKB": 2.01,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "9373",
+      "ages": [
+        "9373",
+        "9373",
+        "9373"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9kNDk2ZDIxYS03MDhmLTQxMjQtYTc0MS01OTJjN2IxNTMzMjAvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        9.07,
+        6.98,
+        10.54
+      ],
+      "avgLatency": 8.86,
+      "minLatency": 6.98,
+      "maxLatency": 10.54,
+      "sizeKB": 2.96,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "87389",
+      "ages": [
+        "87389",
+        "87389",
+        "87389"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJ3ZWJwIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8wZGUwY2IzMi04MmUzLTQyODgtOGIxYi04MWI4MDMyNWEzYmYvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        5.95,
+        6.95,
+        5.36
+      ],
+      "avgLatency": 6.09,
+      "minLatency": 5.36,
+      "maxLatency": 6.95,
+      "sizeKB": 2.16,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "99972",
+      "ages": [
+        "99972",
+        "99973",
+        "99973"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6Ijk1M2JkZjM3MjNhMTQyZTliODA2MDdiYzc4OWEyNTdiIiwiY3JvcCI6WzE1MSwwLDQ2OCwzMTJdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        7.69,
+        8.93,
+        7.16
+      ],
+      "avgLatency": 7.93,
+      "minLatency": 7.16,
+      "maxLatency": 8.93,
+      "sizeKB": 6,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "18274",
+      "ages": [
+        "18274",
+        "18274",
+        "18274"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImYxNmZmYTQyYzViNjQ5NWQzMjczNzFiMTJiNjg2MGM0IiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        7.26,
+        8.12,
+        6.7
+      ],
+      "avgLatency": 7.36,
+      "minLatency": 6.7,
+      "maxLatency": 8.12,
+      "sizeKB": 18.86,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "70059",
+      "ages": [
+        "70059",
+        "70059",
+        "70059"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImJlZDE3YWQ4ZjE2NDUzMWM3OTVjOTFkYzNiM2RmMjczIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        8.63,
+        11.31,
+        7.51
+      ],
+      "avgLatency": 9.15,
+      "minLatency": 7.51,
+      "maxLatency": 11.31,
+      "sizeKB": 6.24,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "33372",
+      "ages": [
+        "33372",
+        "33373",
+        "33373"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjFlOGExMzBhYTcwNTM4NWI4OGRlYWQ4YzY2YzdmOTkzIiwiY3JvcCI6WzIzLDI2MCw4NzYsNTYxXSwiZnAiOlswLjUsMC41XSwiciI6MS4zMywibyI6ImRuIn0",
+      "latencies": [
+        9.17,
+        7.06,
+        6.15
+      ],
+      "avgLatency": 7.46,
+      "minLatency": 6.15,
+      "maxLatency": 9.17,
+      "sizeKB": 11.31,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "1640",
+      "ages": [
+        "1640",
+        "1640",
+        "1640"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImNhNDVlODM5OTQ5ZGU1Mjg2OGJlZTkxN2JiZTUzZmVjIiwiZnAiOlswLjUwNTYyNSwwLjI5MTExMV0sInIiOjEuNDcsIm8iOiJkbiJ9",
+      "latencies": [
+        6.89,
+        6.58,
+        8.41
+      ],
+      "avgLatency": 7.29,
+      "minLatency": 6.58,
+      "maxLatency": 8.41,
+      "sizeKB": 9.85,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "1639",
+      "ages": [
+        "1639",
+        "1639",
+        "1639"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjI5NWE1NmZmNTU0NGM3MGU0YzUzMzU2MmQxNDFjYzg0IiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        8.55,
+        11.69,
+        9.39
+      ],
+      "avgLatency": 9.88,
+      "minLatency": 8.55,
+      "maxLatency": 11.69,
+      "sizeKB": 43.99,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "107190",
+      "ages": [
+        "107190",
+        "107190",
+        "107190"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6Ijc0NzMzZjk4YjRkNTg4OTllYjRjMThiNGU5NjA0YzNjIiwiZnAiOlswLjMxMDYyNSwwLjM2MjY5OV0sInIiOjEuNjIsIm8iOiJkbiJ9",
+      "latencies": [
+        6.93,
+        7.8,
+        6.87
+      ],
+      "avgLatency": 7.2,
+      "minLatency": 6.87,
+      "maxLatency": 7.8,
+      "sizeKB": 15.14,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "2495",
+      "ages": [
+        "2495",
+        "2495",
+        "2495"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjcyNGEwMDI1NGRhODE4NTk4NmM3ZThlMjAxZmZlZjg4IiwiY3JvcCI6WzAsMCwxNTk5LDEwNjZdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        7.98,
+        7.62,
+        7.65
+      ],
+      "avgLatency": 7.75,
+      "minLatency": 7.62,
+      "maxLatency": 7.98,
+      "sizeKB": 17.32,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "20489",
+      "ages": [
+        "20489",
+        "20489",
+        "20489"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjU1OThmMjRkOTEzYzgyYTAxZDg2ZGM4YWNmM2NhNDE3IiwiY3JvcCI6WzAsMjMsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        7.7,
+        7.72,
+        6.97
+      ],
+      "avgLatency": 7.46,
+      "minLatency": 6.97,
+      "maxLatency": 7.72,
+      "sizeKB": 4.67,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "20298",
+      "ages": [
+        "20298",
+        "20298",
+        "20298"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImY0NmI2NTEwMTJiOTYxYTU3NjNkMjZlNDExMmRiYzQwIiwiY3JvcCI6WzEsMCwxNTk5LDEwNjZdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        7.19,
+        7.44,
+        7.29
+      ],
+      "avgLatency": 7.31,
+      "minLatency": 7.19,
+      "maxLatency": 7.44,
+      "sizeKB": 12.05,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "12004",
+      "ages": [
+        "12004",
+        "12004",
+        "12004"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjRlYjdmMjBkMTc4OTkwYWU1OTIyZjRkZjBmYzkzZTU0IiwiY3JvcCI6WzIsMCwxNTk4LDEwNjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        13.07,
+        8.32,
+        7.85
+      ],
+      "avgLatency": 9.75,
+      "minLatency": 7.85,
+      "maxLatency": 13.07,
+      "sizeKB": 7.62,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "12005",
+      "ages": [
+        "12005",
+        "12005",
+        "12005"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjVlYmU4ZTZlYzFjNWJjZDM1YzgwOTNiOTVkZmE1YmQxIiwiY3JvcCI6WzAsMCwxNjAyLDEwNjhdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        389.41,
+        8.75,
+        7.03
+      ],
+      "avgLatency": 135.06,
+      "minLatency": 7.03,
+      "maxLatency": 389.41,
+      "sizeKB": 15.31,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "81948",
+      "ages": [
+        "81948",
+        "81949",
+        "81949"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6ImVhNGZiNjRhNWUwNGQ4NzE4YzE5NmJiMzgzMjQxNTU5IiwiZnAiOlswLjI4NSwwLjQ4MjkxMl0sInIiOjEuMjcsIm8iOiJkbiJ9",
+      "latencies": [
+        13.65,
+        18.43,
+        14.36
+      ],
+      "avgLatency": 15.48,
+      "minLatency": 13.65,
+      "maxLatency": 18.43,
+      "sizeKB": 71.46,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "81275",
+      "ages": [
+        "81275",
+        "81275",
+        "81276"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6ImE4OWYyMGE1YTJlNTk3ZTgxZjZmZGI1ZGJmNGIyYmNlIiwiZnAiOlswLjUsMC41MDA0NjVdLCJyIjoxLjY2LCJvIjoiZG4ifQ",
+      "latencies": [
+        12.57,
+        13.25,
+        14.43
+      ],
+      "avgLatency": 13.42,
+      "minLatency": 12.57,
+      "maxLatency": 14.43,
+      "sizeKB": 88.3,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "20374",
+      "ages": [
+        "20374",
+        "20374",
+        "20375"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImVmZWY1MjlhOTU5MWUwYjZmYTlkN2U2OWI3NmJjMGYzIiwiY3JvcCI6WzAsMTU1LDE2MDAsODk5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        7.58,
+        7.44,
+        8.02
+      ],
+      "avgLatency": 7.68,
+      "minLatency": 7.44,
+      "maxLatency": 8.02,
+      "sizeKB": 7.03,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "207272",
+      "ages": [
+        "207272",
+        "207272",
+        "207272"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjRjYWU3NTIxZWYwM2U5YzM4YjM4OGQwZWNkNmM3Mzg2IiwiY3JvcCI6WzAsMTUyLDE2MDAsODk5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        8.17,
+        11.37,
+        7.57
+      ],
+      "avgLatency": 9.04,
+      "minLatency": 7.57,
+      "maxLatency": 11.37,
+      "sizeKB": 7.67,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "19594",
+      "ages": [
+        "19594",
+        "19594",
+        "19595"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjI3NmNhMmU1ZTU1NGQyN2Q2ZjE5NWNiOTY4OTBiMjIxIiwiZnAiOlswLjYxMDYyNSwwLjM1MjM5XSwiciI6MS43MywibyI6ImRuIn0",
+      "latencies": [
+        8.27,
+        6.61,
+        6.86
+      ],
+      "avgLatency": 7.25,
+      "minLatency": 6.61,
+      "maxLatency": 8.27,
+      "sizeKB": 10.32,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "2969",
+      "ages": [
+        "2969",
+        "2969",
+        "2969"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImVkNmY5ZTU5NGU5N2IxZDNmMWFlYzhkZWIwMDY1M2YzIiwiZnAiOlswLjQzODEyNSwwLjI4Njc4NV0sInIiOjEuMjIsIm8iOiJkbiJ9",
+      "latencies": [
+        9.85,
+        7.92,
+        7.96
+      ],
+      "avgLatency": 8.58,
+      "minLatency": 7.92,
+      "maxLatency": 9.85,
+      "sizeKB": 12.67,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "25577",
+      "ages": [
+        "25577",
+        "25577",
+        "25577"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjlhNDZkYjlkNDdjNTQyYTM2ZDZiMTQ2YjM0NDlmNjllIiwiY3JvcCI6WzAsMTU5LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        7.4,
+        7.53,
+        8.31
+      ],
+      "avgLatency": 7.75,
+      "minLatency": 7.4,
+      "maxLatency": 8.31,
+      "sizeKB": 15.31,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "75336",
+      "ages": [
+        "75336",
+        "75336",
+        "75336"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjQwMTAyMDlmMTU4ZTliNzA5YjhjZjU5M2VmNWU4YTY5IiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        9.04,
+        9.21,
+        8.44
+      ],
+      "avgLatency": 8.9,
+      "minLatency": 8.44,
+      "maxLatency": 9.21,
+      "sizeKB": 15.37,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "21256",
+      "ages": [
+        "21256",
+        "21256",
+        "21256"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjA5NGFjZmM3NjRiYWFhODIyYTAwZGQzMjQwNzEzM2Y4IiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        8.19,
+        10.4,
+        8.37
+      ],
+      "avgLatency": 8.99,
+      "minLatency": 8.19,
+      "maxLatency": 10.4,
+      "sizeKB": 27.75,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "6553",
+      "ages": [
+        "6553",
+        "6553",
+        "6553"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjE5MDJmMGQwZGYxODhhMDNhMGRkYTJiYjhmNzY1ZDFiIiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        7.97,
+        9.22,
+        7.34
+      ],
+      "avgLatency": 8.18,
+      "minLatency": 7.34,
+      "maxLatency": 9.22,
+      "sizeKB": 7.92,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "102339",
+      "ages": [
+        "102339",
+        "102339",
+        "102339"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjYyMDAyMGQ5M2I5YmI4MGI1Y2ZlYWZhZWU4MTE3Yjk3IiwiY3JvcCI6WzAsNzAsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        8.84,
+        8.38,
+        7.35
+      ],
+      "avgLatency": 8.19,
+      "minLatency": 7.35,
+      "maxLatency": 8.84,
+      "sizeKB": 8.73,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "361349",
+      "ages": [
+        "361349",
+        "361349",
+        "361349"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImI1ZjYyYTA2NTg2MTE3MGIxMDVmMTU1ZWY3OTgzYmFjIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        16.99,
+        7,
+        7.16
+      ],
+      "avgLatency": 10.38,
+      "minLatency": 7,
+      "maxLatency": 16.99,
+      "sizeKB": 4.07,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "527485",
+      "ages": [
+        "527485",
+        "527485",
+        "527485"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImJlYzliMmJjMmYzODE1NTIwZDkxMTZhNzI5MjU1MTM3IiwiY3JvcCI6WzAsNSwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        8.38,
+        5.94,
+        6.43
+      ],
+      "avgLatency": 6.92,
+      "minLatency": 5.94,
+      "maxLatency": 8.38,
+      "sizeKB": 8.06,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "236513",
+      "ages": [
+        "236513",
+        "236513",
+        "236513"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6IjU5NTE2NDQ0OTIxYzJkNmM1Nzc3ZWZhZTdiNjJiODBkIiwiY3JvcCI6WzAsOTcsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        8.17,
+        64.8,
+        8.21
+      ],
+      "avgLatency": 27.06,
+      "minLatency": 8.17,
+      "maxLatency": 64.8,
+      "sizeKB": 17.59,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "357472",
+      "ages": [
+        "357472",
+        "357472",
+        "357473"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImE4ZTgwZWE5ZGU1MWY5ZDFhYmJjOWFhYWM4ZTNiY2JkIiwiY3JvcCI6WzAsNCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        7.88,
+        9.36,
+        5.98
+      ],
+      "avgLatency": 7.74,
+      "minLatency": 5.98,
+      "maxLatency": 9.36,
+      "sizeKB": 12.49,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "72984",
+      "ages": [
+        "72984",
+        "72985",
+        "72985"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6IjI4N2IyNjc0OGQ2MGNlZWRiM2Y1Mzc0NTY2NjU0NGZhIiwiY3JvcCI6WzAsNDUsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        154.42,
+        6.42,
+        9.84
+      ],
+      "avgLatency": 56.89,
+      "minLatency": 6.42,
+      "maxLatency": 154.42,
+      "sizeKB": 10.59,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "12796",
+      "ages": [
+        "12796",
+        "12796",
+        "12796"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImUzZGMyODM5Nzc4ZGZmYTdiMmJmOGEzMTVmZTc1YjhmIiwiY3JvcCI6WzAsMTY1LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        7.96,
+        7.23,
+        7.27
+      ],
+      "avgLatency": 7.49,
+      "minLatency": 7.23,
+      "maxLatency": 7.96,
+      "sizeKB": 12.91,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "150102",
+      "ages": [
+        "150102",
+        "150102",
+        "150102"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImQ3MjIwZGJhYTVlYjBiMzRmMzQ4YTVlMTU1ZDljOTRlIiwiY3JvcCI6WzAsMzEsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        9.68,
+        8.29,
+        15.22
+      ],
+      "avgLatency": 11.06,
+      "minLatency": 8.29,
+      "maxLatency": 15.22,
+      "sizeKB": 26.52,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "400555",
+      "ages": [
+        "400555",
+        "400555",
+        "400555"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6IjJhZmZmZjc3NTQ3ODljMDNlZDQwMDkzNzNhNGI0Nzk4IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        11.55,
+        7.65,
+        8.91
+      ],
+      "avgLatency": 9.37,
+      "minLatency": 7.65,
+      "maxLatency": 11.55,
+      "sizeKB": 16.37,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "15384",
+      "ages": [
+        "15384",
+        "15384",
+        "15384"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImRlMDI3ZTlkNWM2OGViMzc2ODFjNTUxYmNiNDRjYmQxIiwiY3JvcCI6WzAsMTY3LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        7.41,
+        9.71,
+        9.05
+      ],
+      "avgLatency": 8.72,
+      "minLatency": 7.41,
+      "maxLatency": 9.71,
+      "sizeKB": 16.59,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "78012",
+      "ages": [
+        "78012",
+        "78012",
+        "78013"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjUwODc3YmY5NTE5NTM1ZGMzNTQ2ZTcwOTM3ZDkxZTIxIiwiY3JvcCI6WzEsMjQsMTgyOSwxMDI5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        6.69,
+        7.79,
+        7.73
+      ],
+      "avgLatency": 7.4,
+      "minLatency": 6.69,
+      "maxLatency": 7.79,
+      "sizeKB": 9.97,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "363118",
+      "ages": [
+        "363118",
+        "363118",
+        "363118"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImZiMDNkZDFhZTIwOTc1NDViZGFlOGQ3Mjk3MjIxOTMwIiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        10.12,
+        7.64,
+        7.53
+      ],
+      "avgLatency": 8.43,
+      "minLatency": 7.53,
+      "maxLatency": 10.12,
+      "sizeKB": 10.13,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "197469",
+      "ages": [
+        "197469",
+        "197469",
+        "197469"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6Ijk3MThmZWNhZDVlMWQ2MDM0MDJjYzkzZTQ5ZDcwZTU3IiwiY3JvcCI6WzAsNzA2LDEzNTAsNzU5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        9.1,
+        11.57,
+        9.83
+      ],
+      "avgLatency": 10.17,
+      "minLatency": 9.1,
+      "maxLatency": 11.57,
+      "sizeKB": 37.66,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "74190",
+      "ages": [
+        "74190",
+        "74190",
+        "74190"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjVmYTVjNTFjZmM2YmQyNmFjYzMyNTdlOTQ5YTQ1YTIzIiwiY3JvcCI6WzAsMjU4LDEzNTAsNzU4XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        8.52,
+        7.05,
+        8.88
+      ],
+      "avgLatency": 8.15,
+      "minLatency": 7.05,
+      "maxLatency": 8.88,
+      "sizeKB": 22.7,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "62173",
+      "ages": [
+        "62173",
+        "62173",
+        "62173"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozMDAsImYiOiJ3ZWJwIiwiayI6ImYyOTM1NjkwNTlhNmU4YTdlMzcxZGMzODgzMDg1MzExIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        9.71,
+        8.6,
+        7.34
+      ],
+      "avgLatency": 8.55,
+      "minLatency": 7.34,
+      "maxLatency": 9.71,
+      "sizeKB": 3.98,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "58064",
+      "ages": [
+        "58064",
+        "58064",
+        "58064"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozMDAsImYiOiJ3ZWJwIiwiayI6IjRhZjk5OTZjYTBjMTFmMjVlOTgxOGE4NjRjNjM2NjJiIiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        8.95,
+        7.37,
+        8.48
+      ],
+      "avgLatency": 8.27,
+      "minLatency": 7.37,
+      "maxLatency": 8.95,
+      "sizeKB": 15.82,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "62173",
+      "ages": [
+        "62173",
+        "62173",
+        "62173"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImM3Y2M3NGJmODYxNzhkMjI4ZmM5ODJhMDY4ZTNiNGU0IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        12.38,
+        8.69,
+        6.61
+      ],
+      "avgLatency": 9.23,
+      "minLatency": 6.61,
+      "maxLatency": 12.38,
+      "sizeKB": 12.53,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "333059",
+      "ages": [
+        "333059",
+        "333059",
+        "333059"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJ3ZWJwIiwiayI6ImQyOGQ0M2MyYjAxMmY0MGJiZmQ3MDkwOGMzYmMxZGVlIiwiY3JvcCI6WzAsODIsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        10.35,
+        6.53,
+        7.85
+      ],
+      "avgLatency": 8.24,
+      "minLatency": 6.53,
+      "maxLatency": 10.35,
+      "sizeKB": 7.87,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "28961",
+      "ages": [
+        "28961",
+        "28961",
+        "28961"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjViNDU2NWUwZGE1YTI0ZDcwNThhYjA0NWU2ZDdhNTgzIiwiZnAiOlswLjQ3OTg1OCwwLjYxNjMwN10sInIiOjEuNzIsIm8iOiJkbiJ9",
+      "latencies": [
+        15.55,
+        10.99,
+        10.2
+      ],
+      "avgLatency": 12.25,
+      "minLatency": 10.2,
+      "maxLatency": 15.55,
+      "sizeKB": 50.1,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "49",
+      "ages": [
+        "49",
+        "49",
+        "49"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6Ijk4YjNlNDM5OGQzZDRhM2ZjNzFhMmViZDNiM2JkYzFkIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        8.42,
+        8.43,
+        9.51
+      ],
+      "avgLatency": 8.79,
+      "minLatency": 8.42,
+      "maxLatency": 9.51,
+      "sizeKB": 17.12,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "23494",
+      "ages": [
+        "23494",
+        "23494",
+        "23494"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImQ0YTA0ZTBkYzIzYTdlOGZhNDU2NTg4MDg3ZmE5MGQ2IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        15.79,
+        7.1,
+        6.62
+      ],
+      "avgLatency": 9.84,
+      "minLatency": 6.62,
+      "maxLatency": 15.79,
+      "sizeKB": 10.03,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "33495",
+      "ages": [
+        "33495",
+        "33495",
+        "33495"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjMwN2VkZmUwMzdkYThkNTE5NGJkZmVhNjkyM2FiYThiIiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        16.01,
+        8.61,
+        7.07
+      ],
+      "avgLatency": 10.56,
+      "minLatency": 7.07,
+      "maxLatency": 16.01,
+      "sizeKB": 10.84,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "377272",
+      "ages": [
+        "377272",
+        "377272",
+        "377272"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjFhMzM0NmJkMDM4NjQzNWVmYjFlYmJkMmE3NWRkZmM1IiwiY3JvcCI6WzAsMTY2LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        6.43,
+        7.19,
+        7.67
+      ],
+      "avgLatency": 7.1,
+      "minLatency": 6.43,
+      "maxLatency": 7.67,
+      "sizeKB": 13.27,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "343709",
+      "ages": [
+        "343709",
+        "343709",
+        "343710"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjI0YTZmMDZlZTBiODU2ZDViYzI4MjE3ZGMzN2NlNDJiIiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        7.51,
+        7.87,
+        6.88
+      ],
+      "avgLatency": 7.42,
+      "minLatency": 6.88,
+      "maxLatency": 7.87,
+      "sizeKB": 11.72,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "587847",
+      "ages": [
+        "587847",
+        "587847",
+        "587847"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6IjFkZDMwYzMxMTI1MTdhNWI4ZDQ1OTg1NmU2ODg5NDU4IiwiZnAiOlswLjQ5OTkyOSwwLjUwMDEwN10sInIiOjEuNjIsIm8iOiJkbiJ9",
+      "latencies": [
+        9.33,
+        7.94,
+        9.27
+      ],
+      "avgLatency": 8.85,
+      "minLatency": 7.94,
+      "maxLatency": 9.33,
+      "sizeKB": 16.77,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "74194",
+      "ages": [
+        "74194",
+        "74194",
+        "74194"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImU5ZjRkMWYxNTE2MzcwY2RiZDBkNWUxODI2MTQ0MjM3IiwiY3JvcCI6WzAsODAsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        8.73,
+        10.41,
+        6.74
+      ],
+      "avgLatency": 8.63,
+      "minLatency": 6.74,
+      "maxLatency": 10.41,
+      "sizeKB": 3.65,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "594754",
+      "ages": [
+        "594754",
+        "594754",
+        "594754"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjBmODc2NTZkNGU2ZDRiMjg0M2VjNmVlNWFkNzVjY2ZiIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        8.81,
+        8.88,
+        8.5
+      ],
+      "avgLatency": 8.73,
+      "minLatency": 8.5,
+      "maxLatency": 8.88,
+      "sizeKB": 7.85,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "79900",
+      "ages": [
+        "79900",
+        "79901",
+        "79901"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImNhNjE2NTM2YzdhMWNlNTZhY2ZmMzZkOTJlZGExNzU0IiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        9.36,
+        7.15,
+        10.35
+      ],
+      "avgLatency": 8.95,
+      "minLatency": 7.15,
+      "maxLatency": 10.35,
+      "sizeKB": 10.07,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "269833",
+      "ages": [
+        "269833",
+        "269833",
+        "269834"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImVjYjkwZjkzNDdmMmViYTdhODU4NzdkOGQ0OTc4ZTRlIiwiY3JvcCI6WzAsMTY3LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        7.77,
+        7.23,
+        7.9
+      ],
+      "avgLatency": 7.63,
+      "minLatency": 7.23,
+      "maxLatency": 7.9,
+      "sizeKB": 19.25,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "409309",
+      "ages": [
+        "409309",
+        "409309",
+        "409309"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjBiYTc2ZGRmN2E3ZWU5NDE5ZTVmYzY0YWQzMDg5YzJmIiwiY3JvcCI6WzAsMTA2LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        8.55,
+        7.05,
+        6.92
+      ],
+      "avgLatency": 7.51,
+      "minLatency": 6.92,
+      "maxLatency": 8.55,
+      "sizeKB": 3.44,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "149271",
+      "ages": [
+        "149271",
+        "149271",
+        "149271"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJ3ZWJwIiwiayI6ImYyNWJjM2EyOTkyZTgwYzNkYmViNjk1NjkzYmU1M2ZjIiwiZnAiOlswLjM5NTYwMywwLjMxNTM5M10sInIiOjEuNTMsIm8iOiJkbiJ9",
+      "latencies": [
+        9.71,
+        7.77,
+        7.86
+      ],
+      "avgLatency": 8.45,
+      "minLatency": 7.77,
+      "maxLatency": 9.71,
+      "sizeKB": 19.97,
+      "cacheStatus": "MISS, MISS, HIT",
+      "cacheStatuses": [
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "57922",
+      "ages": [
+        "57922",
+        "57922",
+        "57922"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6IjE0OTkxZDFkNDcyNDM3ODgxMzI3MzdhYTU5NjA2YTQ2IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        7.53,
+        7.03,
+        6.96
+      ],
+      "avgLatency": 7.17,
+      "minLatency": 6.96,
+      "maxLatency": 7.53,
+      "sizeKB": 9.71,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "226273",
+      "ages": [
+        "226273",
+        "226273",
+        "226273"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJ3ZWJwIiwiayI6ImRkYWE0OGE2YzA4ZTI5YmE1N2UyYzUzOGZkMzAyZWU5IiwiY3JvcCI6WzAsMzMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        20.34,
+        8.01,
+        7.47
+      ],
+      "avgLatency": 11.94,
+      "minLatency": 7.47,
+      "maxLatency": 20.34,
+      "sizeKB": 6.39,
+      "cacheStatus": "MISS, HIT, HIT",
+      "cacheStatuses": [
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "150139",
+      "ages": [
+        "150139",
+        "150139",
+        "150139"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjEzZDkxYTZkMWEyYTdiNmU1MWM3MWQ0MjQ2YzFhYjlmIiwiZnAiOlswLjIyNzUsMC4zNDU4MjldLCJyIjoxLjQxLCJvIjoiZG4ifQ",
+      "latencies": [
+        230.42,
+        41.77,
+        7.94
+      ],
+      "avgLatency": 93.38,
+      "minLatency": 7.94,
+      "maxLatency": 230.42,
+      "sizeKB": 9.35,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImFmMDM5NjBjOGZhNTEyYzVjM2E2NDlkM2IwOGI0NzYzIiwiY3JvcCI6WzAsMCwxMjkwLDg2MF0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        119.65,
+        12.81,
+        8.88
+      ],
+      "avgLatency": 47.11,
+      "minLatency": 8.88,
+      "maxLatency": 119.65,
+      "sizeKB": 43.68,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjkyYjkyNGUzMjU4NzcwNzE2ZmIzNmYyZTZhNTk2YjRkIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        146.64,
+        10.74,
+        8.69
+      ],
+      "avgLatency": 55.36,
+      "minLatency": 8.69,
+      "maxLatency": 146.64,
+      "sizeKB": 17.06,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImNhZDllZmFiOWVhMzVjYjA0OGU2YmQ1YzBiMDE1NTFmIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        150.21,
+        9.17,
+        8.85
+      ],
+      "avgLatency": 56.08,
+      "minLatency": 8.85,
+      "maxLatency": 150.21,
+      "sizeKB": 14.23,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjgyNWFlYjEzNzM2YTliNDZjYjUyMGFjZDRkNmZmNmNiIiwiZnAiOlswLjQ1ODEyNSwwLjE2NTg4Nl0sInIiOjEuMTQsIm8iOiJkbiJ9",
+      "latencies": [
+        170.46,
+        9.84,
+        9.76
+      ],
+      "avgLatency": 63.35,
+      "minLatency": 9.76,
+      "maxLatency": 170.46,
+      "sizeKB": 31.6,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjcyNjgyMTdiOTY2ZWYxNjBmMGMwNTNiNjZhNzI5ZjVkIiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        150.55,
+        8.07,
+        9.1
+      ],
+      "avgLatency": 55.91,
+      "minLatency": 8.07,
+      "maxLatency": 150.55,
+      "sizeKB": 13.83,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjdkYWU4YjdlODMzNjgwMzkyMGJjMWQyMmMxMWQzMGUyIiwiY3JvcCI6WzAsMCwxNTk4LDEwNjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        149.3,
+        11.04,
+        9.8
+      ],
+      "avgLatency": 56.71,
+      "minLatency": 9.8,
+      "maxLatency": 149.3,
+      "sizeKB": 54.53,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImI5MjBjOTI5Yjg3NTQxNGE0Yzc0ODViMWU1ZmEyNjAwIiwiY3JvcCI6WzI1NSwyMzQsOTkzLDc4MF0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        209.93,
+        11.12,
+        10.44
+      ],
+      "avgLatency": 77.16,
+      "minLatency": 10.44,
+      "maxLatency": 209.93,
+      "sizeKB": 47.46,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6Ijk4YTJhYjY3MjlmMmExNjgwMzc0OGY3MmQ3NjNkMzMxIiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        150.22,
+        10.02,
+        7.45
+      ],
+      "avgLatency": 55.9,
+      "minLatency": 7.45,
+      "maxLatency": 150.22,
+      "sizeKB": 17.37,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6Ijc2N2Q1OWI2N2I1YzgwMTg1N2YyOTJhMDQ5MGExNTgxIiwiY3JvcCI6WzM3NSwxMTYsOTQzLDY5MV0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        125.43,
+        7.86,
+        8.39
+      ],
+      "avgLatency": 47.23,
+      "minLatency": 7.86,
+      "maxLatency": 125.43,
+      "sizeKB": 29.76,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6IjBjNWU5Nzc4NDIyZGEyZmQ0MjNmNDhjOWE2MmM1YTQ0IiwiY3JvcCI6Wzg3LDg0LDE2MjUsMTEzMl0sImZwIjpbMC41LDAuNV0sInIiOjEuNSwibyI6ImRuIn0",
+      "latencies": [
+        245.37,
+        8.65,
+        8.82
+      ],
+      "avgLatency": 87.61,
+      "minLatency": 8.65,
+      "maxLatency": 245.37,
+      "sizeKB": 22.34,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjlmMDMzMWU0YTVhMGI4Y2EwYTllZTBhZjQ4ZjgyYWIxIiwiY3JvcCI6WzY1NSw0ODEsODU3LDYyOV0sImZwIjpbMC41LDAuNV0sInIiOjEuMzMsIm8iOiJkbiJ9",
+      "latencies": [
+        154.75,
+        14.49,
+        15.35
+      ],
+      "avgLatency": 61.53,
+      "minLatency": 14.49,
+      "maxLatency": 154.75,
+      "sizeKB": 95.81,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjY5NzllNTVlODI0OTMwMzY2ZTA5ZjRkMjIwNWQyNzA4IiwiY3JvcCI6WzIwOCwzMTUsMTA4OCw3NTJdLCJmcCI6WzAuNSwwLjVdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        167.23,
+        9.02,
+        7.14
+      ],
+      "avgLatency": 61.13,
+      "minLatency": 7.14,
+      "maxLatency": 167.23,
+      "sizeKB": 13.39,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImQ3ODUzN2I3ZWFhNDRhY2MxOWFmMzgyNzRiYjcxM2VlIiwiZnAiOlswLjQ0Njg3NSwwLjMzMzY0Nl0sInIiOjEuMjIsIm8iOiJkbiJ9",
+      "latencies": [
+        145.75,
+        9.96,
+        7.28
+      ],
+      "avgLatency": 54.33,
+      "minLatency": 7.28,
+      "maxLatency": 145.75,
+      "sizeKB": 14.67,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImQ3NmUzZDYwODdkYWZjMWU3MWU4ZTBiOWRmMzZkZWNkIiwiY3JvcCI6WzE5OCwyNDQsMTM1MCw5MDZdLCJmcCI6WzAuNSwwLjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        172.64,
+        7.88,
+        9.11
+      ],
+      "avgLatency": 63.21,
+      "minLatency": 7.88,
+      "maxLatency": 172.64,
+      "sizeKB": 14.26,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjRhZGZiYmUyYzAzMGY2YmM4OWU0M2RkYWIxN2I1ODM0IiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        167.06,
+        11.68,
+        10.36
+      ],
+      "avgLatency": 63.03,
+      "minLatency": 10.36,
+      "maxLatency": 167.06,
+      "sizeKB": 59.28,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8yNmVkMjRmNS05ZTk5LTQzNTMtYjI3OS1lODE0MTljNDc3ODUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        104.58,
+        7.32,
+        6.45
+      ],
+      "avgLatency": 39.45,
+      "minLatency": 6.45,
+      "maxLatency": 104.58,
+      "sizeKB": 3.01,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8yNDczOTk2Mi04MThjLTQ5OWQtYmM3OS02OGNiNWJjMmVmNDMvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        102.09,
+        7.87,
+        61.99
+      ],
+      "avgLatency": 57.32,
+      "minLatency": 7.87,
+      "maxLatency": 102.09,
+      "sizeKB": 5,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9iMmY3ODliNC1jNjU4LTQ4NGQtYTY5Zi1hZjFkNTgzZDhhNWIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        102.12,
+        9.42,
+        7.27
+      ],
+      "avgLatency": 39.6,
+      "minLatency": 7.27,
+      "maxLatency": 102.12,
+      "sizeKB": 5.64,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mMmY5NzYxMi0yYmJmLTRkMmYtODJiMC1hYjE5MzVjMGEwNzgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        140.1,
+        8.06,
+        8.71
+      ],
+      "avgLatency": 52.29,
+      "minLatency": 8.06,
+      "maxLatency": 140.1,
+      "sizeKB": 4.67,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mNzk0MWQ5OC1kNTcwLTRlYTgtYjdlZi1jM2ZlMGQ1ODVlZTIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        102.87,
+        8.41,
+        7
+      ],
+      "avgLatency": 39.43,
+      "minLatency": 7,
+      "maxLatency": 102.87,
+      "sizeKB": 3.63,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC80MTYxYmFkNC02MWMzLTRkM2MtOTQ5MC0xMTNhOGI2NGI4NDIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        103.89,
+        8.47,
+        9.18
+      ],
+      "avgLatency": 40.51,
+      "minLatency": 8.47,
+      "maxLatency": 103.89,
+      "sizeKB": 4.45,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8wODVlYzZmNS1lM2YzLTQ5Y2MtOTdjMS0wZTkxN2I4YWI5ZjYvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.26,
+        9.78,
+        7.86
+      ],
+      "avgLatency": 10.97,
+      "minLatency": 7.86,
+      "maxLatency": 15.26,
+      "sizeKB": 4.51,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42051",
+      "ages": [
+        "42051",
+        "42051",
+        "42051"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lNzZjMjM0Ni05OTllLTQzYWItODAyYS0wY2RjN2Y3NGEzMmUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.66,
+        7.48,
+        10.18
+      ],
+      "avgLatency": 11.11,
+      "minLatency": 7.48,
+      "maxLatency": 15.66,
+      "sizeKB": 3.69,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42051",
+      "ages": [
+        "42051",
+        "42051",
+        "42051"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lMzgzM2VmZi1jYzMyLTQ1ODUtODM0Zi0xOTE1YWYwODUxNmQvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        16.23,
+        8.18,
+        6.43
+      ],
+      "avgLatency": 10.28,
+      "minLatency": 6.43,
+      "maxLatency": 16.23,
+      "sizeKB": 3.98,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42051",
+      "ages": [
+        "42051",
+        "42051",
+        "42051"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC84ZWI0N2M4OC01MmQ5LTQwYWEtOGI5OS02ZWE0YWYyMmNmNWIvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        18.16,
+        7.86,
+        9.08
+      ],
+      "avgLatency": 11.7,
+      "minLatency": 7.86,
+      "maxLatency": 18.16,
+      "sizeKB": 3.03,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42052",
+      "ages": [
+        "42052",
+        "42052",
+        "42052"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC82NmM4Nzc5ZS0xZjZkLTRlOTMtYjUyMy00ZTk3NzE0MDViMDMvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.98,
+        8.05,
+        6.39
+      ],
+      "avgLatency": 10.14,
+      "minLatency": 6.39,
+      "maxLatency": 15.98,
+      "sizeKB": 3.68,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42052",
+      "ages": [
+        "42052",
+        "42052",
+        "42052"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC84MGUwNTQ5Zi01Zjk2LTQxYTItOTZhZC03ZTkwNzI4N2M2ZjcvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        18.73,
+        10.23,
+        7.14
+      ],
+      "avgLatency": 12.03,
+      "minLatency": 7.14,
+      "maxLatency": 18.73,
+      "sizeKB": 5.31,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42052",
+      "ages": [
+        "42052",
+        "42052",
+        "42052"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mN2VhNGViMy0yZGYxLTQ1ZTktOTkwYi05ZWE2MjY0MWVjM2YvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        16.32,
+        11.31,
+        7.66
+      ],
+      "avgLatency": 11.76,
+      "minLatency": 7.66,
+      "maxLatency": 16.32,
+      "sizeKB": 3.78,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42053",
+      "ages": [
+        "42053",
+        "42053",
+        "42053"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC82ZDA2ZTNhMS02ODE5LTRmMWItODNmOC05YWM2YTc5YmU5ZjcvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.94,
+        13.5,
+        7.23
+      ],
+      "avgLatency": 12.22,
+      "minLatency": 7.23,
+      "maxLatency": 15.94,
+      "sizeKB": 5.86,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42053",
+      "ages": [
+        "42053",
+        "42053",
+        "42053"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9lMWUwYzZkZS04ZWZiLTRhOTctOGE5OC04MGQwNmFiMGIyOTgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        14.01,
+        6.12,
+        7.41
+      ],
+      "avgLatency": 9.18,
+      "minLatency": 6.12,
+      "maxLatency": 14.01,
+      "sizeKB": 2.56,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42053",
+      "ages": [
+        "42053",
+        "42053",
+        "42053"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8zZDdmYTdkNS1lMzdmLTRmZGUtOWM5ZC03MTk2YjM4OWRjOTkvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.13,
+        9.25,
+        6.59
+      ],
+      "avgLatency": 10.32,
+      "minLatency": 6.59,
+      "maxLatency": 15.13,
+      "sizeKB": 4.13,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42054",
+      "ages": [
+        "42054",
+        "42054",
+        "42054"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9mZDMxNGU5Ny01ZWE2LTQzY2EtYmM1My05YzlhMTgwODk3ODgvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        235.8,
+        9.1,
+        6.37
+      ],
+      "avgLatency": 83.76,
+      "minLatency": 6.37,
+      "maxLatency": 235.8,
+      "sizeKB": 3.59,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC85M2FhNTU3My01Mzg1LTRlZjYtYWQ4Zi1jYWRiYzEyZmVjMjAvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.58,
+        11.25,
+        7.19
+      ],
+      "avgLatency": 11.34,
+      "minLatency": 7.19,
+      "maxLatency": 15.58,
+      "sizeKB": 4.32,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42054",
+      "ages": [
+        "42054",
+        "42054",
+        "42054"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8xNTI1MjUzZS02YzIyLTQ2NDctOGE0Zi1kNDlhM2I3NDJlN2QvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        19.73,
+        8.22,
+        7.04
+      ],
+      "avgLatency": 11.66,
+      "minLatency": 7.04,
+      "maxLatency": 19.73,
+      "sizeKB": 4.89,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42055",
+      "ages": [
+        "42055",
+        "42055",
+        "42055"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9hMGJmYTVjOC0wYmE3LTRlMGItODI0YS01M2VjZDA5OTJkOGUvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.62,
+        8.28,
+        7.33
+      ],
+      "avgLatency": 10.41,
+      "minLatency": 7.33,
+      "maxLatency": 15.62,
+      "sizeKB": 3.1,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42055",
+      "ages": [
+        "42055",
+        "42055",
+        "42055"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9kNzg0Y2JlNC02ODNiLTRkMWQtYjZmOC1lODg2ZjBmMmQwOWQvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        15.57,
+        8.15,
+        9.9
+      ],
+      "avgLatency": 11.21,
+      "minLatency": 8.15,
+      "maxLatency": 15.57,
+      "sizeKB": 3.57,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42055",
+      "ages": [
+        "42055",
+        "42055",
+        "42055"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC9kNDk2ZDIxYS03MDhmLTQxMjQtYTc0MS01OTJjN2IxNTMzMjAvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        112.99,
+        7.83,
+        6.87
+      ],
+      "avgLatency": 42.56,
+      "minLatency": 6.87,
+      "maxLatency": 112.99,
+      "sizeKB": 4.55,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjoyNTAsImYiOiJqcGVnIiwidSI6Imh0dHBzOi8vd3d3LmRuLm5vL3NlcnZpY2UvZG5qb2JiL21hZGdleC9nZXRhc3NldC8wZGUwY2IzMi04MmUzLTQyODgtOGIxYi04MWI4MDMyNWEzYmYvIiwiZnAiOlswLjUsMC41XSwibyI6ImRuIn0",
+      "latencies": [
+        96.64,
+        8.02,
+        11.47
+      ],
+      "avgLatency": 38.71,
+      "minLatency": 8.02,
+      "maxLatency": 96.64,
+      "sizeKB": 3.47,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6Ijk1M2JkZjM3MjNhMTQyZTliODA2MDdiYzc4OWEyNTdiIiwiY3JvcCI6WzE1MSwwLDQ2OCwzMTJdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        157.97,
+        9.27,
+        8.24
+      ],
+      "avgLatency": 58.49,
+      "minLatency": 8.24,
+      "maxLatency": 157.97,
+      "sizeKB": 11.87,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImYxNmZmYTQyYzViNjQ5NWQzMjczNzFiMTJiNjg2MGM0IiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        16.94,
+        10.21,
+        9.94
+      ],
+      "avgLatency": 12.36,
+      "minLatency": 9.94,
+      "maxLatency": 16.94,
+      "sizeKB": 20,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42058",
+      "ages": [
+        "42058",
+        "42058",
+        "42058"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImJlZDE3YWQ4ZjE2NDUzMWM3OTVjOTFkYzNiM2RmMjczIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        189.13,
+        7.9,
+        8
+      ],
+      "avgLatency": 68.34,
+      "minLatency": 7.9,
+      "maxLatency": 189.13,
+      "sizeKB": 10.32,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjFlOGExMzBhYTcwNTM4NWI4OGRlYWQ4YzY2YzdmOTkzIiwiY3JvcCI6WzIzLDI2MCw4NzYsNTYxXSwiZnAiOlswLjUsMC41XSwiciI6MS4zMywibyI6ImRuIn0",
+      "latencies": [
+        126.91,
+        9.24,
+        8.17
+      ],
+      "avgLatency": 48.11,
+      "minLatency": 8.17,
+      "maxLatency": 126.91,
+      "sizeKB": 17.25,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImNhNDVlODM5OTQ5ZGU1Mjg2OGJlZTkxN2JiZTUzZmVjIiwiZnAiOlswLjUwNTYyNSwwLjI5MTExMV0sInIiOjEuNDcsIm8iOiJkbiJ9",
+      "latencies": [
+        169.33,
+        9.02,
+        9.22
+      ],
+      "avgLatency": 62.52,
+      "minLatency": 9.02,
+      "maxLatency": 169.33,
+      "sizeKB": 12.86,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjI5NWE1NmZmNTU0NGM3MGU0YzUzMzU2MmQxNDFjYzg0IiwiY3JvcCI6WzAsMCwxNjAxLDEwNjddLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        147.96,
+        11.76,
+        10.01
+      ],
+      "avgLatency": 56.58,
+      "minLatency": 10.01,
+      "maxLatency": 147.96,
+      "sizeKB": 58.57,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6Ijc0NzMzZjk4YjRkNTg4OTllYjRjMThiNGU5NjA0YzNjIiwiZnAiOlswLjMxMDYyNSwwLjM2MjY5OV0sInIiOjEuNjIsIm8iOiJkbiJ9",
+      "latencies": [
+        216.02,
+        8.43,
+        8.14
+      ],
+      "avgLatency": 77.53,
+      "minLatency": 8.14,
+      "maxLatency": 216.02,
+      "sizeKB": 19.08,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjcyNGEwMDI1NGRhODE4NTk4NmM3ZThlMjAxZmZlZjg4IiwiY3JvcCI6WzAsMCwxNTk5LDEwNjZdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        171.8,
+        16.91,
+        8.61
+      ],
+      "avgLatency": 65.77,
+      "minLatency": 8.61,
+      "maxLatency": 171.8,
+      "sizeKB": 31.67,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjU1OThmMjRkOTEzYzgyYTAxZDg2ZGM4YWNmM2NhNDE3IiwiY3JvcCI6WzAsMjMsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        197.44,
+        7.28,
+        6.67
+      ],
+      "avgLatency": 70.46,
+      "minLatency": 6.67,
+      "maxLatency": 197.44,
+      "sizeKB": 8.19,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImY0NmI2NTEwMTJiOTYxYTU3NjNkMjZlNDExMmRiYzQwIiwiY3JvcCI6WzEsMCwxNTk5LDEwNjZdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        122.79,
+        8.03,
+        7.47
+      ],
+      "avgLatency": 46.1,
+      "minLatency": 7.47,
+      "maxLatency": 122.79,
+      "sizeKB": 16.26,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjRlYjdmMjBkMTc4OTkwYWU1OTIyZjRkZjBmYzkzZTU0IiwiY3JvcCI6WzIsMCwxNTk4LDEwNjVdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        197.77,
+        8.33,
+        14.8
+      ],
+      "avgLatency": 73.63,
+      "minLatency": 8.33,
+      "maxLatency": 197.77,
+      "sizeKB": 12.29,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjVlYmU4ZTZlYzFjNWJjZDM1YzgwOTNiOTVkZmE1YmQxIiwiY3JvcCI6WzAsMCwxNjAyLDEwNjhdLCJyIjoxLjUsIm8iOiJkbiJ9",
+      "latencies": [
+        17.89,
+        14.86,
+        8.23
+      ],
+      "avgLatency": 13.66,
+      "minLatency": 8.23,
+      "maxLatency": 17.89,
+      "sizeKB": 19.36,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42063",
+      "ages": [
+        "42063",
+        "42063",
+        "42063"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImVhNGZiNjRhNWUwNGQ4NzE4YzE5NmJiMzgzMjQxNTU5IiwiZnAiOlswLjI4NSwwLjQ4MjkxMl0sInIiOjEuMjcsIm8iOiJkbiJ9",
+      "latencies": [
+        154.83,
+        13.87,
+        11.65
+      ],
+      "avgLatency": 60.12,
+      "minLatency": 11.65,
+      "maxLatency": 154.83,
+      "sizeKB": 78.89,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImE4OWYyMGE1YTJlNTk3ZTgxZjZmZGI1ZGJmNGIyYmNlIiwiZnAiOlswLjUsMC41MDA0NjVdLCJyIjoxLjY2LCJvIjoiZG4ifQ",
+      "latencies": [
+        263.18,
+        13.69,
+        14
+      ],
+      "avgLatency": 96.96,
+      "minLatency": 13.69,
+      "maxLatency": 263.18,
+      "sizeKB": 94.42,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImVmZWY1MjlhOTU5MWUwYjZmYTlkN2U2OWI3NmJjMGYzIiwiY3JvcCI6WzAsMTU1LDE2MDAsODk5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        15.95,
+        9.26,
+        8.41
+      ],
+      "avgLatency": 11.21,
+      "minLatency": 8.41,
+      "maxLatency": 15.95,
+      "sizeKB": 10.48,
+      "cacheStatus": "MISS, HIT, MISS",
+      "cacheStatuses": [
+        "MISS, HIT, MISS",
+        "MISS, HIT, HIT",
+        "MISS, HIT, HIT"
+      ],
+      "age": "42064",
+      "ages": [
+        "42064",
+        "42064",
+        "42064"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjRjYWU3NTIxZWYwM2U5YzM4YjM4OGQwZWNkNmM3Mzg2IiwiY3JvcCI6WzAsMTUyLDE2MDAsODk5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        146.73,
+        7.76,
+        7.44
+      ],
+      "avgLatency": 53.98,
+      "minLatency": 7.44,
+      "maxLatency": 146.73,
+      "sizeKB": 11.22,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjI3NmNhMmU1ZTU1NGQyN2Q2ZjE5NWNiOTY4OTBiMjIxIiwiZnAiOlswLjYxMDYyNSwwLjM1MjM5XSwiciI6MS43MywibyI6ImRuIn0",
+      "latencies": [
+        164.68,
+        8.53,
+        10.66
+      ],
+      "avgLatency": 61.29,
+      "minLatency": 8.53,
+      "maxLatency": 164.68,
+      "sizeKB": 14.21,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImVkNmY5ZTU5NGU5N2IxZDNmMWFlYzhkZWIwMDY1M2YzIiwiZnAiOlswLjQzODEyNSwwLjI4Njc4NV0sInIiOjEuMjIsIm8iOiJkbiJ9",
+      "latencies": [
+        120.17,
+        9.09,
+        7.81
+      ],
+      "avgLatency": 45.69,
+      "minLatency": 7.81,
+      "maxLatency": 120.17,
+      "sizeKB": 18.34,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjlhNDZkYjlkNDdjNTQyYTM2ZDZiMTQ2YjM0NDlmNjllIiwiY3JvcCI6WzAsMTU5LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        127.08,
+        7.92,
+        6.87
+      ],
+      "avgLatency": 47.29,
+      "minLatency": 6.87,
+      "maxLatency": 127.08,
+      "sizeKB": 17.87,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjQwMTAyMDlmMTU4ZTliNzA5YjhjZjU5M2VmNWU4YTY5IiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        145.98,
+        7.78,
+        7.66
+      ],
+      "avgLatency": 53.81,
+      "minLatency": 7.66,
+      "maxLatency": 145.98,
+      "sizeKB": 17.82,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjA5NGFjZmM3NjRiYWFhODIyYTAwZGQzMjQwNzEzM2Y4IiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        214.31,
+        9.9,
+        7.89
+      ],
+      "avgLatency": 77.37,
+      "minLatency": 7.89,
+      "maxLatency": 214.31,
+      "sizeKB": 40.12,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjE5MDJmMGQwZGYxODhhMDNhMGRkYTJiYjhmNzY1ZDFiIiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        145.55,
+        9.3,
+        6.71
+      ],
+      "avgLatency": 53.85,
+      "minLatency": 6.71,
+      "maxLatency": 145.55,
+      "sizeKB": 11.63,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjYyMDAyMGQ5M2I5YmI4MGI1Y2ZlYWZhZWU4MTE3Yjk3IiwiY3JvcCI6WzAsNzAsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        143.44,
+        7.98,
+        7.1
+      ],
+      "avgLatency": 52.84,
+      "minLatency": 7.1,
+      "maxLatency": 143.44,
+      "sizeKB": 12.81,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImI1ZjYyYTA2NTg2MTE3MGIxMDVmMTU1ZWY3OTgzYmFjIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        119.48,
+        8.39,
+        9.39
+      ],
+      "avgLatency": 45.75,
+      "minLatency": 8.39,
+      "maxLatency": 119.48,
+      "sizeKB": 6.6,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImJlYzliMmJjMmYzODE1NTIwZDkxMTZhNzI5MjU1MTM3IiwiY3JvcCI6WzAsNSwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        152.59,
+        8.12,
+        7.66
+      ],
+      "avgLatency": 56.12,
+      "minLatency": 7.66,
+      "maxLatency": 152.59,
+      "sizeKB": 13.38,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6IjU5NTE2NDQ0OTIxYzJkNmM1Nzc3ZWZhZTdiNjJiODBkIiwiY3JvcCI6WzAsOTcsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        181.88,
+        12.65,
+        8.8
+      ],
+      "avgLatency": 67.78,
+      "minLatency": 8.8,
+      "maxLatency": 181.88,
+      "sizeKB": 25.04,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImE4ZTgwZWE5ZGU1MWY5ZDFhYmJjOWFhYWM4ZTNiY2JkIiwiY3JvcCI6WzAsNCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        152.8,
+        9.82,
+        8.03
+      ],
+      "avgLatency": 56.88,
+      "minLatency": 8.03,
+      "maxLatency": 152.8,
+      "sizeKB": 19.54,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6IjI4N2IyNjc0OGQ2MGNlZWRiM2Y1Mzc0NTY2NjU0NGZhIiwiY3JvcCI6WzAsNDUsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        164.87,
+        8.43,
+        7.26
+      ],
+      "avgLatency": 60.19,
+      "minLatency": 7.26,
+      "maxLatency": 164.87,
+      "sizeKB": 15.96,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImUzZGMyODM5Nzc4ZGZmYTdiMmJmOGEzMTVmZTc1YjhmIiwiY3JvcCI6WzAsMTY1LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        141.86,
+        8.82,
+        8.7
+      ],
+      "avgLatency": 53.13,
+      "minLatency": 8.7,
+      "maxLatency": 141.86,
+      "sizeKB": 20.39,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImQ3MjIwZGJhYTVlYjBiMzRmMzQ4YTVlMTU1ZDljOTRlIiwiY3JvcCI6WzAsMzEsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        170.21,
+        10.98,
+        8.72
+      ],
+      "avgLatency": 63.3,
+      "minLatency": 8.72,
+      "maxLatency": 170.21,
+      "sizeKB": 34.03,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6IjJhZmZmZjc3NTQ3ODljMDNlZDQwMDkzNzNhNGI0Nzk4IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        128.38,
+        8.76,
+        8.46
+      ],
+      "avgLatency": 48.53,
+      "minLatency": 8.46,
+      "maxLatency": 128.38,
+      "sizeKB": 23.86,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImRlMDI3ZTlkNWM2OGViMzc2ODFjNTUxYmNiNDRjYmQxIiwiY3JvcCI6WzAsMTY3LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        152.59,
+        8.65,
+        12.69
+      ],
+      "avgLatency": 57.98,
+      "minLatency": 8.65,
+      "maxLatency": 152.59,
+      "sizeKB": 22.91,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjUwODc3YmY5NTE5NTM1ZGMzNTQ2ZTcwOTM3ZDkxZTIxIiwiY3JvcCI6WzEsMjQsMTgyOSwxMDI5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        142.44,
+        8.72,
+        34.39
+      ],
+      "avgLatency": 61.85,
+      "minLatency": 8.72,
+      "maxLatency": 142.44,
+      "sizeKB": 13.52,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImZiMDNkZDFhZTIwOTc1NDViZGFlOGQ3Mjk3MjIxOTMwIiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        146.64,
+        8.57,
+        7.12
+      ],
+      "avgLatency": 54.11,
+      "minLatency": 7.12,
+      "maxLatency": 146.64,
+      "sizeKB": 12.75,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6Ijk3MThmZWNhZDVlMWQ2MDM0MDJjYzkzZTQ5ZDcwZTU3IiwiY3JvcCI6WzAsNzA2LDEzNTAsNzU5XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        156.06,
+        10.98,
+        9.07
+      ],
+      "avgLatency": 58.7,
+      "minLatency": 9.07,
+      "maxLatency": 156.06,
+      "sizeKB": 47.66,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjVmYTVjNTFjZmM2YmQyNmFjYzMyNTdlOTQ5YTQ1YTIzIiwiY3JvcCI6WzAsMjU4LDEzNTAsNzU4XSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        148.2,
+        9.56,
+        16.06
+      ],
+      "avgLatency": 57.94,
+      "minLatency": 9.56,
+      "maxLatency": 148.2,
+      "sizeKB": 34.43,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozMDAsImYiOiJqcGVnIiwiayI6ImYyOTM1NjkwNTlhNmU4YTdlMzcxZGMzODgzMDg1MzExIiwiY3JvcCI6WzAsMCwxNjAwLDg5OV0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        142.91,
+        8.49,
+        7.66
+      ],
+      "avgLatency": 53.02,
+      "minLatency": 7.66,
+      "maxLatency": 142.91,
+      "sizeKB": 6.5,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozMDAsImYiOiJqcGVnIiwiayI6IjRhZjk5OTZjYTBjMTFmMjVlOTgxOGE4NjRjNjM2NjJiIiwiY3JvcCI6WzAsODQsMTYwMCw4OTldLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        167.36,
+        6.94,
+        8.51
+      ],
+      "avgLatency": 60.94,
+      "minLatency": 6.94,
+      "maxLatency": 167.36,
+      "sizeKB": 16.81,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImM3Y2M3NGJmODYxNzhkMjI4ZmM5ODJhMDY4ZTNiNGU0IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        169,
+        8.6,
+        7.6
+      ],
+      "avgLatency": 61.73,
+      "minLatency": 7.6,
+      "maxLatency": 169,
+      "sizeKB": 18.82,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo1MDAsImYiOiJqcGVnIiwiayI6ImQyOGQ0M2MyYjAxMmY0MGJiZmQ3MDkwOGMzYmMxZGVlIiwiY3JvcCI6WzAsODIsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        129.09,
+        13.72,
+        19.55
+      ],
+      "avgLatency": 54.12,
+      "minLatency": 13.72,
+      "maxLatency": 129.09,
+      "sizeKB": 12.51,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjViNDU2NWUwZGE1YTI0ZDcwNThhYjA0NWU2ZDdhNTgzIiwiZnAiOlswLjQ3OTg1OCwwLjYxNjMwN10sInIiOjEuNzIsIm8iOiJkbiJ9",
+      "latencies": [
+        146.42,
+        13.72,
+        10.59
+      ],
+      "avgLatency": 56.91,
+      "minLatency": 10.59,
+      "maxLatency": 146.42,
+      "sizeKB": 60.87,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6Ijk4YjNlNDM5OGQzZDRhM2ZjNzFhMmViZDNiM2JkYzFkIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        191.44,
+        9.62,
+        8.18
+      ],
+      "avgLatency": 69.75,
+      "minLatency": 8.18,
+      "maxLatency": 191.44,
+      "sizeKB": 20.49,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImQ0YTA0ZTBkYzIzYTdlOGZhNDU2NTg4MDg3ZmE5MGQ2IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        164.78,
+        6.79,
+        7.37
+      ],
+      "avgLatency": 59.65,
+      "minLatency": 6.79,
+      "maxLatency": 164.78,
+      "sizeKB": 13.71,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjMwN2VkZmUwMzdkYThkNTE5NGJkZmVhNjkyM2FiYThiIiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        156.49,
+        9.3,
+        9.84
+      ],
+      "avgLatency": 58.54,
+      "minLatency": 9.3,
+      "maxLatency": 156.49,
+      "sizeKB": 14.59,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjFhMzM0NmJkMDM4NjQzNWVmYjFlYmJkMmE3NWRkZmM1IiwiY3JvcCI6WzAsMTY2LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        189,
+        9.6,
+        8.37
+      ],
+      "avgLatency": 68.99,
+      "minLatency": 8.37,
+      "maxLatency": 189,
+      "sizeKB": 16.67,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjI0YTZmMDZlZTBiODU2ZDViYzI4MjE3ZGMzN2NlNDJiIiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        182.6,
+        8.02,
+        6.95
+      ],
+      "avgLatency": 65.86,
+      "minLatency": 6.95,
+      "maxLatency": 182.6,
+      "sizeKB": 16.07,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6IjFkZDMwYzMxMTI1MTdhNWI4ZDQ1OTg1NmU2ODg5NDU4IiwiZnAiOlswLjQ5OTkyOSwwLjUwMDEwN10sInIiOjEuNjIsIm8iOiJkbiJ9",
+      "latencies": [
+        170.61,
+        10.49,
+        7.67
+      ],
+      "avgLatency": 62.92,
+      "minLatency": 7.67,
+      "maxLatency": 170.61,
+      "sizeKB": 26.64,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImU5ZjRkMWYxNTE2MzcwY2RiZDBkNWUxODI2MTQ0MjM3IiwiY3JvcCI6WzAsODAsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        146.53,
+        14.58,
+        8.5
+      ],
+      "avgLatency": 56.54,
+      "minLatency": 8.5,
+      "maxLatency": 146.53,
+      "sizeKB": 6.15,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjBmODc2NTZkNGU2ZDRiMjg0M2VjNmVlNWFkNzVjY2ZiIiwiZnAiOlswLjUsMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        159.83,
+        8.91,
+        7.66
+      ],
+      "avgLatency": 58.8,
+      "minLatency": 7.66,
+      "maxLatency": 159.83,
+      "sizeKB": 10.8,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImNhNjE2NTM2YzdhMWNlNTZhY2ZmMzZkOTJlZGExNzU0IiwiY3JvcCI6WzAsODMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        161.97,
+        8.96,
+        8.77
+      ],
+      "avgLatency": 59.9,
+      "minLatency": 8.77,
+      "maxLatency": 161.97,
+      "sizeKB": 14.17,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImVjYjkwZjkzNDdmMmViYTdhODU4NzdkOGQ0OTc4ZTRlIiwiY3JvcCI6WzAsMTY3LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        172.04,
+        9.67,
+        8.19
+      ],
+      "avgLatency": 63.3,
+      "minLatency": 8.19,
+      "maxLatency": 172.04,
+      "sizeKB": 21.74,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjBiYTc2ZGRmN2E3ZWU5NDE5ZTVmYzY0YWQzMDg5YzJmIiwiY3JvcCI6WzAsMTA2LDE2MDAsOTAwXSwiciI6MS43OCwibyI6ImRuIn0",
+      "latencies": [
+        147.5,
+        7.98,
+        8.32
+      ],
+      "avgLatency": 54.6,
+      "minLatency": 7.98,
+      "maxLatency": 147.5,
+      "sizeKB": 6.26,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3Ijo2NTAsImYiOiJqcGVnIiwiayI6ImYyNWJjM2EyOTkyZTgwYzNkYmViNjk1NjkzYmU1M2ZjIiwiZnAiOlswLjM5NTYwMywwLjMxNTM5M10sInIiOjEuNTMsIm8iOiJkbiJ9",
+      "latencies": [
+        184.33,
+        9.98,
+        8.32
+      ],
+      "avgLatency": 67.54,
+      "minLatency": 8.32,
+      "maxLatency": 184.33,
+      "sizeKB": 34.48,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6IjE0OTkxZDFkNDcyNDM3ODgxMzI3MzdhYTU5NjA2YTQ2IiwiY3JvcCI6WzAsMCwxNjAwLDkwMF0sInIiOjEuNzgsIm8iOiJkbiJ9",
+      "latencies": [
+        234.22,
+        8.71,
+        9.33
+      ],
+      "avgLatency": 84.09,
+      "minLatency": 8.71,
+      "maxLatency": 234.22,
+      "sizeKB": 13.4,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    },
+    {
+      "url": "https://media.dngroup.com/image/eyJ3IjozNTAsImYiOiJqcGVnIiwiayI6ImRkYWE0OGE2YzA4ZTI5YmE1N2UyYzUzOGZkMzAyZWU5IiwiY3JvcCI6WzAsMzMsMTYwMCw5MDBdLCJyIjoxLjc4LCJvIjoiZG4ifQ",
+      "latencies": [
+        149.16,
+        7.74,
+        8.14
+      ],
+      "avgLatency": 55.01,
+      "minLatency": 7.74,
+      "maxLatency": 149.16,
+      "sizeKB": 9.96,
+      "cacheStatus": "MISS, MISS, MISS",
+      "cacheStatuses": [
+        "MISS, MISS, MISS",
+        "MISS, MISS, HIT",
+        "MISS, MISS, HIT"
+      ],
+      "age": "0",
+      "ages": [
+        "0",
+        "0",
+        "0"
+      ],
+      "status": 200,
+      "error": null
+    }
+  ]
+}
